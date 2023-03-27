@@ -1,0 +1,1151 @@
+Nome;Bolsa;Ticker;Metrica;Valor
+Apple Inc;nasdaq;aapl;Market cap;1970000000000.0
+Apple Inc;nasdaq;aapl;Enterprise value;2450000000000.0
+Apple Inc;nasdaq;aapl;Revenue;387537000000.0
+Apple Inc;nasdaq;aapl;EBITDA;125288000000.0
+Apple Inc;nasdaq;aapl;Income;95171000000.0
+Apple Inc;nasdaq;aapl;Revenue Q/Q;-5.48
+Apple Inc;nasdaq;aapl;Revenue Y/Y;2.44
+Apple Inc;nasdaq;aapl;P/E;27.07
+Apple Inc;nasdaq;aapl;Forward P/E;24.14
+Apple Inc;nasdaq;aapl;EV/Sales;6.32
+Apple Inc;nasdaq;aapl;EV/EBITDA;19.55
+Apple Inc;nasdaq;aapl;EV/EBIT;20.98
+Apple Inc;nasdaq;aapl;PEG;2.75
+Apple Inc;nasdaq;aapl;Price/Sales;5.09
+Apple Inc;nasdaq;aapl;P/FCF;20.23
+Apple Inc;nasdaq;aapl;Price/Book;38.93
+Apple Inc;nasdaq;aapl;Book/Share;4.12
+Apple Inc;nasdaq;aapl;Cash/Share;3.92
+Apple Inc;nasdaq;aapl;FCF yield;4.94
+Apple Inc;nasdaq;aapl;Employees;164000.0
+Apple Inc;nasdaq;aapl;RPE;2363000.0
+Apple Inc;nasdaq;aapl;Shares outst.;15822000000.0
+Apple Inc;nasdaq;aapl;Short ratio;1.11
+Apple Inc;nasdaq;aapl;EPS;5.92
+Apple Inc;nasdaq;aapl;EPS Q/Q;4.03
+Apple Inc;nasdaq;aapl;Est. EPS Q/Q;-5.71
+Apple Inc;nasdaq;aapl;Profit margin;25.31
+Apple Inc;nasdaq;aapl;Oper. margin;29.41
+Apple Inc;nasdaq;aapl;Gross margin;43.31
+Apple Inc;nasdaq;aapl;EBIT margin;30.12
+Apple Inc;nasdaq;aapl;EBITDA margin;32.33
+Apple Inc;nasdaq;aapl;Ret. on assets;27.46
+Apple Inc;nasdaq;aapl;Ret. on equity;163.45
+Apple Inc;nasdaq;aapl;ROIC;34.68
+Apple Inc;nasdaq;aapl;ROCE;55.73
+Apple Inc;nasdaq;aapl;Debt/Equity;5.96
+Apple Inc;nasdaq;aapl;Net debt/EBITDA;2.17
+Apple Inc;nasdaq;aapl;Current ratio;0.94
+Apple Inc;nasdaq;aapl;Quick ratio;0.89
+Apple Inc;nasdaq;aapl;Volatility;2.2
+Apple Inc;nasdaq;aapl;Beta;1.3
+Apple Inc;nasdaq;aapl;Dividend;1.09
+Apple Inc;nasdaq;aapl;Dividend yield;0.68
+Apple Inc;nasdaq;aapl;Payout ratio;18.36
+Apple Inc;nasdaq;aapl;IPO year;1980.0
+Apple Inc;nasdaq;aapl;Country;United States
+Adobe Inc;nasdaq;adbe;Market cap;156400000000.0
+Adobe Inc;nasdaq;adbe;Enterprise value;155530000000.0
+Adobe Inc;nasdaq;adbe;Revenue;17606000000.0
+Adobe Inc;nasdaq;adbe;EBITDA;6267000000.0
+Adobe Inc;nasdaq;adbe;Income;4756000000.0
+Adobe Inc;nasdaq;adbe;Revenue Q/Q;10.1
+Adobe Inc;nasdaq;adbe;Revenue Y/Y;11.54
+Adobe Inc;nasdaq;adbe;P/E;37.01
+Adobe Inc;nasdaq;adbe;Forward P/E;22.62
+Adobe Inc;nasdaq;adbe;EV/Sales;8.83
+Adobe Inc;nasdaq;adbe;EV/EBITDA;24.82
+Adobe Inc;nasdaq;adbe;EV/EBIT;25.41
+Adobe Inc;nasdaq;adbe;PEG;1.64
+Adobe Inc;nasdaq;adbe;Price/Sales;8.88
+Adobe Inc;nasdaq;adbe;P/FCF;21.15
+Adobe Inc;nasdaq;adbe;Price/Book;11.13
+Adobe Inc;nasdaq;adbe;Book/Share;33.69
+Adobe Inc;nasdaq;adbe;Cash/Share;14.61
+Adobe Inc;nasdaq;adbe;FCF yield;4.73
+Adobe Inc;nasdaq;adbe;Employees;29239.0
+Adobe Inc;nasdaq;adbe;RPE;781933.0
+Adobe Inc;nasdaq;adbe;Shares outst.;458576000.0
+Adobe Inc;nasdaq;adbe;Short ratio;0.89
+Adobe Inc;nasdaq;adbe;EPS;10.13
+Adobe Inc;nasdaq;adbe;EPS Q/Q;9.32
+Adobe Inc;nasdaq;adbe;Est. EPS Q/Q;9.38
+Adobe Inc;nasdaq;adbe;Profit margin;27.01
+Adobe Inc;nasdaq;adbe;Oper. margin;34.64
+Adobe Inc;nasdaq;adbe;Gross margin;87.7
+Adobe Inc;nasdaq;adbe;EBIT margin;34.76
+Adobe Inc;nasdaq;adbe;EBITDA margin;35.6
+Adobe Inc;nasdaq;adbe;Ret. on assets;17.91
+Adobe Inc;nasdaq;adbe;Ret. on equity;33.86
+Adobe Inc;nasdaq;adbe;ROIC;22.5
+Adobe Inc;nasdaq;adbe;ROCE;32.15
+Adobe Inc;nasdaq;adbe;Debt/Equity;0.93
+Adobe Inc;nasdaq;adbe;Net debt/EBITDA;-0.52
+Adobe Inc;nasdaq;adbe;Current ratio;1.11
+Adobe Inc;nasdaq;adbe;Quick ratio;1.11
+Adobe Inc;nasdaq;adbe;Volatility;2.94
+Adobe Inc;nasdaq;adbe;Beta;1.4
+Adobe Inc;nasdaq;adbe;Dividend;0.0
+Adobe Inc;nasdaq;adbe;Dividend yield;0.0
+Adobe Inc;nasdaq;adbe;Payout ratio;0.0
+Adobe Inc;nasdaq;adbe;IPO year;1986.0
+Adobe Inc;nasdaq;adbe;Country;United States
+Autodesk Inc.;nasdaq;adsk;Market cap;44660000000.0
+Autodesk Inc.;nasdaq;adsk;Enterprise value;45590000000.0
+Autodesk Inc.;nasdaq;adsk;Revenue;5005000000.0
+Autodesk Inc.;nasdaq;adsk;EBITDA;953100000.0
+Autodesk Inc.;nasdaq;adsk;Income;823000000.0
+Autodesk Inc.;nasdaq;adsk;Revenue Q/Q;8.78
+Autodesk Inc.;nasdaq;adsk;Revenue Y/Y;14.1
+Autodesk Inc.;nasdaq;adsk;P/E;52.55
+Autodesk Inc.;nasdaq;adsk;Forward P/E;26.67
+Autodesk Inc.;nasdaq;adsk;EV/Sales;9.11
+Autodesk Inc.;nasdaq;adsk;EV/EBITDA;47.83
+Autodesk Inc.;nasdaq;adsk;EV/EBIT;46.1
+Autodesk Inc.;nasdaq;adsk;PEG;1.05
+Autodesk Inc.;nasdaq;adsk;Price/Sales;8.92
+Autodesk Inc.;nasdaq;adsk;P/FCF;21.99
+Autodesk Inc.;nasdaq;adsk;Price/Book;39.0
+Autodesk Inc.;nasdaq;adsk;Book/Share;5.13
+Autodesk Inc.;nasdaq;adsk;Cash/Share;9.29
+Autodesk Inc.;nasdaq;adsk;FCF yield;4.55
+Autodesk Inc.;nasdaq;adsk;Employees;12600.0
+Autodesk Inc.;nasdaq;adsk;RPE;397222.0
+Autodesk Inc.;nasdaq;adsk;Shares outst.;214783000.0
+Autodesk Inc.;nasdaq;adsk;Short ratio;2.13
+Autodesk Inc.;nasdaq;adsk;EPS;3.81
+Autodesk Inc.;nasdaq;adsk;EPS Q/Q;36.36
+Autodesk Inc.;nasdaq;adsk;Est. EPS Q/Q;27.82
+Autodesk Inc.;nasdaq;adsk;Profit margin;16.44
+Autodesk Inc.;nasdaq;adsk;Oper. margin;19.76
+Autodesk Inc.;nasdaq;adsk;Gross margin;90.41
+Autodesk Inc.;nasdaq;adsk;EBIT margin;19.76
+Autodesk Inc.;nasdaq;adsk;EBITDA margin;19.04
+Autodesk Inc.;nasdaq;adsk;Ret. on assets;9.53
+Autodesk Inc.;nasdaq;adsk;Ret. on equity;94.82
+Autodesk Inc.;nasdaq;adsk;ROIC;10.96
+Autodesk Inc.;nasdaq;adsk;ROCE;18.19
+Autodesk Inc.;nasdaq;adsk;Debt/Equity;7.24
+Autodesk Inc.;nasdaq;adsk;Net debt/EBITDA;5.05
+Autodesk Inc.;nasdaq;adsk;Current ratio;0.84
+Autodesk Inc.;nasdaq;adsk;Quick ratio;0.84
+Autodesk Inc.;nasdaq;adsk;Volatility;3.44
+Autodesk Inc.;nasdaq;adsk;Beta;1.58
+Autodesk Inc.;nasdaq;adsk;Dividend;0.0
+Autodesk Inc.;nasdaq;adsk;Dividend yield;0.0
+Autodesk Inc.;nasdaq;adsk;Payout ratio;0.0
+Autodesk Inc.;nasdaq;adsk;IPO year;1985.0
+Autodesk Inc.;nasdaq;adsk;Country;United States
+Colgate-Palmolive Co.;nyse;cl;Market cap;65560000000.0
+Colgate-Palmolive Co.;nyse;cl;Enterprise value;69400000000.0
+Colgate-Palmolive Co.;nyse;cl;Revenue;17967000000.0
+Colgate-Palmolive Co.;nyse;cl;EBITDA;3695000000.0
+Colgate-Palmolive Co.;nyse;cl;Income;1785000000.0
+Colgate-Palmolive Co.;nyse;cl;Revenue Q/Q;5.13
+Colgate-Palmolive Co.;nyse;cl;Revenue Y/Y;3.13
+Colgate-Palmolive Co.;nyse;cl;P/E;34.47
+Colgate-Palmolive Co.;nyse;cl;Forward P/E;23.32
+Colgate-Palmolive Co.;nyse;cl;EV/Sales;3.86
+Colgate-Palmolive Co.;nyse;cl;EV/EBITDA;18.78
+Colgate-Palmolive Co.;nyse;cl;EV/EBIT;26.38
+Colgate-Palmolive Co.;nyse;cl;PEG;3.28
+Colgate-Palmolive Co.;nyse;cl;Price/Sales;3.65
+Colgate-Palmolive Co.;nyse;cl;P/FCF;34.38
+Colgate-Palmolive Co.;nyse;cl;Price/Book;163.48
+Colgate-Palmolive Co.;nyse;cl;Book/Share;0.45
+Colgate-Palmolive Co.;nyse;cl;Cash/Share;0.87
+Colgate-Palmolive Co.;nyse;cl;FCF yield;2.91
+Colgate-Palmolive Co.;nyse;cl;Employees;33800.0
+Colgate-Palmolive Co.;nyse;cl;RPE;531568.0
+Colgate-Palmolive Co.;nyse;cl;Shares outst.;830379000.0
+Colgate-Palmolive Co.;nyse;cl;Short ratio;2.21
+Colgate-Palmolive Co.;nyse;cl;EPS;2.13
+Colgate-Palmolive Co.;nyse;cl;EPS Q/Q;-10.0
+Colgate-Palmolive Co.;nyse;cl;Est. EPS Q/Q;-9.88
+Colgate-Palmolive Co.;nyse;cl;Profit margin;9.93
+Colgate-Palmolive Co.;nyse;cl;Oper. margin;16.1
+Colgate-Palmolive Co.;nyse;cl;Gross margin;57.04
+Colgate-Palmolive Co.;nyse;cl;EBIT margin;14.64
+Colgate-Palmolive Co.;nyse;cl;EBITDA margin;20.57
+Colgate-Palmolive Co.;nyse;cl;Ret. on assets;11.25
+Colgate-Palmolive Co.;nyse;cl;Ret. on equity;472.22
+Colgate-Palmolive Co.;nyse;cl;ROIC;17.54
+Colgate-Palmolive Co.;nyse;cl;ROCE;22.44
+Colgate-Palmolive Co.;nyse;cl;Debt/Equity;37.22
+Colgate-Palmolive Co.;nyse;cl;Net debt/EBITDA;7.89
+Colgate-Palmolive Co.;nyse;cl;Current ratio;1.28
+Colgate-Palmolive Co.;nyse;cl;Quick ratio;0.76
+Colgate-Palmolive Co.;nyse;cl;Volatility;1.68
+Colgate-Palmolive Co.;nyse;cl;Beta;0.43
+Colgate-Palmolive Co.;nyse;cl;Dividend;1.88
+Colgate-Palmolive Co.;nyse;cl;Dividend yield;2.56
+Colgate-Palmolive Co.;nyse;cl;Payout ratio;88.26
+Colgate-Palmolive Co.;nyse;cl;IPO year;1978.0
+Colgate-Palmolive Co.;nyse;cl;Country;United States
+Walt Disney Co (The);nyse;dis;Market cap;171690000000.0
+Walt Disney Co (The);nyse;dis;Enterprise value;221740000000.0
+Walt Disney Co (The);nyse;dis;Revenue;84415000000.0
+Walt Disney Co (The);nyse;dis;EBITDA;12749000000.0
+Walt Disney Co (The);nyse;dis;Income;3320000000.0
+Walt Disney Co (The);nyse;dis;Revenue Q/Q;7.76
+Walt Disney Co (The);nyse;dis;Revenue Y/Y;15.66
+Walt Disney Co (The);nyse;dis;P/E;51.69
+Walt Disney Co (The);nyse;dis;Forward P/E;24.32
+Walt Disney Co (The);nyse;dis;EV/Sales;2.63
+Walt Disney Co (The);nyse;dis;EV/EBITDA;17.39
+Walt Disney Co (The);nyse;dis;EV/EBIT;34.85
+Walt Disney Co (The);nyse;dis;PEG;0.76
+Walt Disney Co (The);nyse;dis;Price/Sales;2.03
+Walt Disney Co (The);nyse;dis;P/FCF;1826.5
+Walt Disney Co (The);nyse;dis;Price/Book;1.81
+Walt Disney Co (The);nyse;dis;Book/Share;52.06
+Walt Disney Co (The);nyse;dis;Cash/Share;6.36
+Walt Disney Co (The);nyse;dis;FCF yield;0.05
+Walt Disney Co (The);nyse;dis;Employees;204600.0
+Walt Disney Co (The);nyse;dis;RPE;412586.0
+Walt Disney Co (The);nyse;dis;Shares outst.;1827000000.0
+Walt Disney Co (The);nyse;dis;Short ratio;1.92
+Walt Disney Co (The);nyse;dis;EPS;1.82
+Walt Disney Co (The);nyse;dis;EPS Q/Q;-9.09
+Walt Disney Co (The);nyse;dis;Est. EPS Q/Q;-25.47
+Walt Disney Co (The);nyse;dis;Profit margin;3.8
+Walt Disney Co (The);nyse;dis;Oper. margin;7.42
+Walt Disney Co (The);nyse;dis;Gross margin;34.24
+Walt Disney Co (The);nyse;dis;EBIT margin;7.54
+Walt Disney Co (The);nyse;dis;EBITDA margin;15.1
+Walt Disney Co (The);nyse;dis;Ret. on assets;1.63
+Walt Disney Co (The);nyse;dis;Ret. on equity;3.55
+Walt Disney Co (The);nyse;dis;ROIC;3.15
+Walt Disney Co (The);nyse;dis;ROCE;3.63
+Walt Disney Co (The);nyse;dis;Debt/Equity;1.1
+Walt Disney Co (The);nyse;dis;Net debt/EBITDA;12.08
+Walt Disney Co (The);nyse;dis;Current ratio;0.99
+Walt Disney Co (The);nyse;dis;Quick ratio;0.93
+Walt Disney Co (The);nyse;dis;Volatility;2.66
+Walt Disney Co (The);nyse;dis;Beta;1.18
+Walt Disney Co (The);nyse;dis;Dividend;0.0
+Walt Disney Co (The);nyse;dis;Dividend yield;0.0
+Walt Disney Co (The);nyse;dis;Payout ratio;0.0
+Walt Disney Co (The);nyse;dis;IPO year;1978.0
+Walt Disney Co (The);nyse;dis;Country;United States
+General Mills, Inc.;nyse;gis;Market cap;50950000000.0
+General Mills, Inc.;nyse;gis;Enterprise value;58030000000.0
+General Mills, Inc.;nyse;gis;Revenue;19955000000.0
+General Mills, Inc.;nyse;gis;EBITDA;3732000000.0
+General Mills, Inc.;nyse;gis;Income;2802000000.0
+General Mills, Inc.;nyse;gis;Revenue Q/Q;12.96
+General Mills, Inc.;nyse;gis;Revenue Y/Y;7.14
+General Mills, Inc.;nyse;gis;P/E;18.12
+General Mills, Inc.;nyse;gis;Forward P/E;19.39
+General Mills, Inc.;nyse;gis;EV/Sales;2.91
+General Mills, Inc.;nyse;gis;EV/EBITDA;15.55
+General Mills, Inc.;nyse;gis;EV/EBIT;15.31
+General Mills, Inc.;nyse;gis;PEG;3.11
+General Mills, Inc.;nyse;gis;Price/Sales;2.55
+General Mills, Inc.;nyse;gis;P/FCF;19.99
+General Mills, Inc.;nyse;gis;Price/Book;4.83
+General Mills, Inc.;nyse;gis;Book/Share;17.55
+General Mills, Inc.;nyse;gis;Cash/Share;0.95
+General Mills, Inc.;nyse;gis;FCF yield;5.0
+General Mills, Inc.;nyse;gis;Employees;2021.0
+General Mills, Inc.;nyse;gis;RPE;9874000.0
+General Mills, Inc.;nyse;gis;Shares outst.;589611000.0
+General Mills, Inc.;nyse;gis;Short ratio;3.6
+General Mills, Inc.;nyse;gis;EPS;4.68
+General Mills, Inc.;nyse;gis;EPS Q/Q;12.12
+General Mills, Inc.;nyse;gis;Est. EPS Q/Q;6.06
+General Mills, Inc.;nyse;gis;Profit margin;14.25
+General Mills, Inc.;nyse;gis;Oper. margin;17.23
+General Mills, Inc.;nyse;gis;Gross margin;33.71
+General Mills, Inc.;nyse;gis;EBIT margin;18.99
+General Mills, Inc.;nyse;gis;EBITDA margin;18.7
+General Mills, Inc.;nyse;gis;Ret. on assets;8.99
+General Mills, Inc.;nyse;gis;Ret. on equity;27.02
+General Mills, Inc.;nyse;gis;ROIC;11.89
+General Mills, Inc.;nyse;gis;ROCE;17.4
+General Mills, Inc.;nyse;gis;Debt/Equity;1.93
+General Mills, Inc.;nyse;gis;Net debt/EBITDA;11.81
+General Mills, Inc.;nyse;gis;Current ratio;0.54
+General Mills, Inc.;nyse;gis;Quick ratio;0.32
+General Mills, Inc.;nyse;gis;Volatility;2.05
+General Mills, Inc.;nyse;gis;Beta;0.25
+General Mills, Inc.;nyse;gis;Dividend;2.13
+General Mills, Inc.;nyse;gis;Dividend yield;2.51
+General Mills, Inc.;nyse;gis;Payout ratio;45.51
+General Mills, Inc.;nyse;gis;IPO year;1978.0
+General Mills, Inc.;nyse;gis;Country;United States
+Alphabet Inc;nasdaq;googl;Market cap;1230000000000.0
+Alphabet Inc;nasdaq;googl;Enterprise value;1020000000000.0
+Alphabet Inc;nasdaq;googl;Revenue;282836000000.0
+Alphabet Inc;nasdaq;googl;EBITDA;90411000000.0
+Alphabet Inc;nasdaq;googl;Income;59972000000.0
+Alphabet Inc;nasdaq;googl;Revenue Q/Q;0.96
+Alphabet Inc;nasdaq;googl;Revenue Y/Y;9.78
+Alphabet Inc;nasdaq;googl;P/E;22.23
+Alphabet Inc;nasdaq;googl;Forward P/E;17.8
+Alphabet Inc;nasdaq;googl;EV/Sales;3.61
+Alphabet Inc;nasdaq;googl;EV/EBITDA;11.28
+Alphabet Inc;nasdaq;googl;EV/EBIT;14.23
+Alphabet Inc;nasdaq;googl;PEG;1.34
+Alphabet Inc;nasdaq;googl;Price/Sales;4.36
+Alphabet Inc;nasdaq;googl;P/FCF;20.53
+Alphabet Inc;nasdaq;googl;Price/Book;4.81
+Alphabet Inc;nasdaq;googl;Book/Share;21.22
+Alphabet Inc;nasdaq;googl;Cash/Share;9.42
+Alphabet Inc;nasdaq;googl;FCF yield;4.87
+Alphabet Inc;nasdaq;googl;Employees;156500.0
+Alphabet Inc;nasdaq;googl;RPE;1807000.0
+Alphabet Inc;nasdaq;googl;Shares outst.;5956000000.0
+Alphabet Inc;nasdaq;googl;Short ratio;1.44
+Alphabet Inc;nasdaq;googl;EPS;4.59
+Alphabet Inc;nasdaq;googl;EPS Q/Q;-24.29
+Alphabet Inc;nasdaq;googl;Est. EPS Q/Q;-22.22
+Alphabet Inc;nasdaq;googl;Profit margin;21.2
+Alphabet Inc;nasdaq;googl;Oper. margin;26.46
+Alphabet Inc;nasdaq;googl;Gross margin;55.38
+Alphabet Inc;nasdaq;googl;EBIT margin;25.35
+Alphabet Inc;nasdaq;googl;EBITDA margin;31.97
+Alphabet Inc;nasdaq;googl;Ret. on assets;16.71
+Alphabet Inc;nasdaq;googl;Ret. on equity;23.54
+Alphabet Inc;nasdaq;googl;ROIC;19.79
+Alphabet Inc;nasdaq;googl;ROCE;24.22
+Alphabet Inc;nasdaq;googl;Debt/Equity;0.43
+Alphabet Inc;nasdaq;googl;Net debt/EBITDA;-4.23
+Alphabet Inc;nasdaq;googl;Current ratio;2.38
+Alphabet Inc;nasdaq;googl;Quick ratio;2.34
+Alphabet Inc;nasdaq;googl;Volatility;2.92
+Alphabet Inc;nasdaq;googl;Beta;1.37
+Alphabet Inc;nasdaq;googl;Dividend;0.0
+Alphabet Inc;nasdaq;googl;Dividend yield;0.0
+Alphabet Inc;nasdaq;googl;Payout ratio;0.0
+Alphabet Inc;nasdaq;googl;IPO year;2004.0
+Alphabet Inc;nasdaq;googl;Country;United States
+Intel Corp.;nasdaq;intc;Market cap;110420000000.0
+Intel Corp.;nasdaq;intc;Enterprise value;122930000000.0
+Intel Corp.;nasdaq;intc;Revenue;63054000000.0
+Intel Corp.;nasdaq;intc;EBITDA;15371000000.0
+Intel Corp.;nasdaq;intc;Income;8013999999.0
+Intel Corp.;nasdaq;intc;Revenue Q/Q;-31.6
+Intel Corp.;nasdaq;intc;Revenue Y/Y;-20.21
+Intel Corp.;nasdaq;intc;P/E;15.06
+Intel Corp.;nasdaq;intc;Forward P/E;14.01
+Intel Corp.;nasdaq;intc;EV/Sales;1.95
+Intel Corp.;nasdaq;intc;EV/EBITDA;8.0
+Intel Corp.;nasdaq;intc;EV/EBIT;18.63
+Intel Corp.;nasdaq;intc;PEG;12.68
+Intel Corp.;nasdaq;intc;Price/Sales;1.75
+Intel Corp.;nasdaq;intc;P/FCF;0.0
+Intel Corp.;nasdaq;intc;Price/Book;1.09
+Intel Corp.;nasdaq;intc;Book/Share;26.97
+Intel Corp.;nasdaq;intc;Cash/Share;7.53
+Intel Corp.;nasdaq;intc;FCF yield;-8.71
+Intel Corp.;nasdaq;intc;Employees;131900.0
+Intel Corp.;nasdaq;intc;RPE;478044.0
+Intel Corp.;nasdaq;intc;Shares outst.;4136999999.0
+Intel Corp.;nasdaq;intc;Short ratio;1.54
+Intel Corp.;nasdaq;intc;EPS;1.95
+Intel Corp.;nasdaq;intc;EPS Q/Q;-65.5
+Intel Corp.;nasdaq;intc;Est. EPS Q/Q;-81.65
+Intel Corp.;nasdaq;intc;Profit margin;12.71
+Intel Corp.;nasdaq;intc;Oper. margin;3.7
+Intel Corp.;nasdaq;intc;Gross margin;42.61
+Intel Corp.;nasdaq;intc;EBIT margin;10.47
+Intel Corp.;nasdaq;intc;EBITDA margin;24.38
+Intel Corp.;nasdaq;intc;Ret. on assets;4.56
+Intel Corp.;nasdaq;intc;Ret. on equity;7.9
+Intel Corp.;nasdaq;intc;ROIC;3.79
+Intel Corp.;nasdaq;intc;ROCE;4.4
+Intel Corp.;nasdaq;intc;Debt/Equity;0.78
+Intel Corp.;nasdaq;intc;Net debt/EBITDA;2.45
+Intel Corp.;nasdaq;intc;Current ratio;1.57
+Intel Corp.;nasdaq;intc;Quick ratio;1.16
+Intel Corp.;nasdaq;intc;Volatility;3.5
+Intel Corp.;nasdaq;intc;Beta;1.24
+Intel Corp.;nasdaq;intc;Dividend;1.46
+Intel Corp.;nasdaq;intc;Dividend yield;4.97
+Intel Corp.;nasdaq;intc;Payout ratio;74.87
+Intel Corp.;nasdaq;intc;IPO year;1978.0
+Intel Corp.;nasdaq;intc;Country;United States
+Johnson & Johnson;nyse;jnj;Market cap;459470000000.0
+Johnson & Johnson;nyse;jnj;Enterprise value;417250000000.0
+Johnson & Johnson;nyse;jnj;Revenue;94943000000.0
+Johnson & Johnson;nyse;jnj;EBITDA;31456000000.0
+Johnson & Johnson;nyse;jnj;Income;17941000000.0
+Johnson & Johnson;nyse;jnj;Revenue Q/Q;-4.43
+Johnson & Johnson;nyse;jnj;Revenue Y/Y;1.25
+Johnson & Johnson;nyse;jnj;P/E;22.35
+Johnson & Johnson;nyse;jnj;Forward P/E;14.86
+Johnson & Johnson;nyse;jnj;EV/Sales;4.39
+Johnson & Johnson;nyse;jnj;EV/EBITDA;13.26
+Johnson & Johnson;nyse;jnj;EV/EBIT;18.97
+Johnson & Johnson;nyse;jnj;PEG;3.79
+Johnson & Johnson;nyse;jnj;Price/Sales;4.84
+Johnson & Johnson;nyse;jnj;P/FCF;26.74
+Johnson & Johnson;nyse;jnj;Price/Book;5.98
+Johnson & Johnson;nyse;jnj;Book/Share;25.52
+Johnson & Johnson;nyse;jnj;Cash/Share;7.81
+Johnson & Johnson;nyse;jnj;FCF yield;3.74
+Johnson & Johnson;nyse;jnj;Employees;144300.0
+Johnson & Johnson;nyse;jnj;RPE;657956.0
+Johnson & Johnson;nyse;jnj;Shares outst.;3120000000.0
+Johnson & Johnson;nyse;jnj;Short ratio;1.94
+Johnson & Johnson;nyse;jnj;EPS;6.83
+Johnson & Johnson;nyse;jnj;EPS Q/Q;-1.92
+Johnson & Johnson;nyse;jnj;Est. EPS Q/Q;4.69
+Johnson & Johnson;nyse;jnj;Profit margin;18.9
+Johnson & Johnson;nyse;jnj;Oper. margin;24.63
+Johnson & Johnson;nyse;jnj;Gross margin;67.26
+Johnson & Johnson;nyse;jnj;EBIT margin;23.17
+Johnson & Johnson;nyse;jnj;EBITDA margin;33.13
+Johnson & Johnson;nyse;jnj;Ret. on assets;9.99
+Johnson & Johnson;nyse;jnj;Ret. on equity;23.73
+Johnson & Johnson;nyse;jnj;ROIC;11.91
+Johnson & Johnson;nyse;jnj;ROCE;16.72
+Johnson & Johnson;nyse;jnj;Debt/Equity;1.44
+Johnson & Johnson;nyse;jnj;Net debt/EBITDA;0.54
+Johnson & Johnson;nyse;jnj;Current ratio;0.99
+Johnson & Johnson;nyse;jnj;Quick ratio;0.77
+Johnson & Johnson;nyse;jnj;Volatility;1.49
+Johnson & Johnson;nyse;jnj;Beta;0.34
+Johnson & Johnson;nyse;jnj;Dividend;4.52
+Johnson & Johnson;nyse;jnj;Dividend yield;2.96
+Johnson & Johnson;nyse;jnj;Payout ratio;66.18
+Johnson & Johnson;nyse;jnj;IPO year;1978.0
+Johnson & Johnson;nyse;jnj;Country;United States
+Kellogg Co;nyse;k;Market cap;24680000000.0
+Kellogg Co;nyse;k;Enterprise value;28600000000.0
+Kellogg Co;nyse;k;Revenue;15315000000.0
+Kellogg Co;nyse;k;EBITDA;2122000000.0
+Kellogg Co;nyse;k;Income;960000000.0
+Kellogg Co;nyse;k;Revenue Q/Q;12.08
+Kellogg Co;nyse;k;Revenue Y/Y;8.0
+Kellogg Co;nyse;k;P/E;23.3
+Kellogg Co;nyse;k;Forward P/E;15.56
+Kellogg Co;nyse;k;EV/Sales;1.87
+Kellogg Co;nyse;k;EV/EBITDA;13.48
+Kellogg Co;nyse;k;EV/EBIT;20.11
+Kellogg Co;nyse;k;PEG;2.68
+Kellogg Co;nyse;k;Price/Sales;1.61
+Kellogg Co;nyse;k;P/FCF;21.22
+Kellogg Co;nyse;k;Price/Book;6.26
+Kellogg Co;nyse;k;Book/Share;10.46
+Kellogg Co;nyse;k;Cash/Share;0.79
+Kellogg Co;nyse;k;FCF yield;4.71
+Kellogg Co;nyse;k;Employees;2021.0
+Kellogg Co;nyse;k;RPE;7578000.0
+Kellogg Co;nyse;k;Shares outst.;340110000.0
+Kellogg Co;nyse;k;Short ratio;5.1
+Kellogg Co;nyse;k;EPS;2.81
+Kellogg Co;nyse;k;EPS Q/Q;3.51
+Kellogg Co;nyse;k;Est. EPS Q/Q;-10.09
+Kellogg Co;nyse;k;Profit margin;6.27
+Kellogg Co;nyse;k;Oper. margin;10.68
+Kellogg Co;nyse;k;Gross margin;30.13
+Kellogg Co;nyse;k;EBIT margin;9.29
+Kellogg Co;nyse;k;EBITDA margin;13.86
+Kellogg Co;nyse;k;Ret. on assets;5.12
+Kellogg Co;nyse;k;Ret. on equity;23.85
+Kellogg Co;nyse;k;ROIC;7.96
+Kellogg Co;nyse;k;ROCE;11.71
+Kellogg Co;nyse;k;Debt/Equity;3.58
+Kellogg Co;nyse;k;Net debt/EBITDA;13.54
+Kellogg Co;nyse;k;Current ratio;0.66
+Kellogg Co;nyse;k;Quick ratio;0.38
+Kellogg Co;nyse;k;Volatility;1.6
+Kellogg Co;nyse;k;Beta;0.26
+Kellogg Co;nyse;k;Dividend;2.35
+Kellogg Co;nyse;k;Dividend yield;3.59
+Kellogg Co;nyse;k;Payout ratio;83.63
+Kellogg Co;nyse;k;IPO year;1978.0
+Kellogg Co;nyse;k;Country;United States
+Kraft Heinz Co;nasdaq;khc;Market cap;48890000000.0
+Kraft Heinz Co;nasdaq;khc;Enterprise value;66849999999.0
+Kraft Heinz Co;nasdaq;khc;Revenue;26485000000.0
+Kraft Heinz Co;nasdaq;khc;EBITDA;5480000000.0
+Kraft Heinz Co;nasdaq;khc;Income;2363000000.0
+Kraft Heinz Co;nasdaq;khc;Revenue Q/Q;10.02
+Kraft Heinz Co;nasdaq;khc;Revenue Y/Y;1.7
+Kraft Heinz Co;nasdaq;khc;P/E;19.78
+Kraft Heinz Co;nasdaq;khc;Forward P/E;14.15
+Kraft Heinz Co;nasdaq;khc;EV/Sales;2.52
+Kraft Heinz Co;nasdaq;khc;EV/EBITDA;12.2
+Kraft Heinz Co;nasdaq;khc;EV/EBIT;17.22
+Kraft Heinz Co;nasdaq;khc;PEG;2.64
+Kraft Heinz Co;nasdaq;khc;Price/Sales;1.85
+Kraft Heinz Co;nasdaq;khc;P/FCF;31.48
+Kraft Heinz Co;nasdaq;khc;Price/Book;1.0
+Kraft Heinz Co;nasdaq;khc;Book/Share;38.02
+Kraft Heinz Co;nasdaq;khc;Cash/Share;0.81
+Kraft Heinz Co;nasdaq;khc;FCF yield;3.18
+Kraft Heinz Co;nasdaq;khc;Employees;38757.0
+Kraft Heinz Co;nasdaq;khc;RPE;13111000.0
+Kraft Heinz Co;nasdaq;khc;Shares outst.;1225000000.0
+Kraft Heinz Co;nasdaq;khc;Short ratio;1.79
+Kraft Heinz Co;nasdaq;khc;EPS;1.93
+Kraft Heinz Co;nasdaq;khc;EPS Q/Q;-3.08
+Kraft Heinz Co;nasdaq;khc;Est. EPS Q/Q;-2.53
+Kraft Heinz Co;nasdaq;khc;Profit margin;8.92
+Kraft Heinz Co;nasdaq;khc;Oper. margin;13.72
+Kraft Heinz Co;nasdaq;khc;Gross margin;30.67
+Kraft Heinz Co;nasdaq;khc;EBIT margin;14.66
+Kraft Heinz Co;nasdaq;khc;EBITDA margin;20.69
+Kraft Heinz Co;nasdaq;khc;Ret. on assets;2.58
+Kraft Heinz Co;nasdaq;khc;Ret. on equity;4.84
+Kraft Heinz Co;nasdaq;khc;ROIC;4.23
+Kraft Heinz Co;nasdaq;khc;ROCE;4.76
+Kraft Heinz Co;nasdaq;khc;Debt/Equity;0.86
+Kraft Heinz Co;nasdaq;khc;Net debt/EBITDA;13.92
+Kraft Heinz Co;nasdaq;khc;Current ratio;0.87
+Kraft Heinz Co;nasdaq;khc;Quick ratio;0.47
+Kraft Heinz Co;nasdaq;khc;Volatility;1.73
+Kraft Heinz Co;nasdaq;khc;Beta;0.34
+Kraft Heinz Co;nasdaq;khc;Dividend;1.6
+Kraft Heinz Co;nasdaq;khc;Dividend yield;4.19
+Kraft Heinz Co;nasdaq;khc;Payout ratio;82.9
+Kraft Heinz Co;nasdaq;khc;IPO year;2015.0
+Kraft Heinz Co;nasdaq;khc;Country;United States
+Coca-Cola Co;nyse;ko;Market cap;272600000000.0
+Coca-Cola Co;nyse;ko;Enterprise value;284700000000.0
+Coca-Cola Co;nyse;ko;Revenue;43004000000.0
+Coca-Cola Co;nyse;ko;EBITDA;14856000000.0
+Coca-Cola Co;nyse;ko;Income;9542000000.0
+Coca-Cola Co;nyse;ko;Revenue Q/Q;6.98
+Coca-Cola Co;nyse;ko;Revenue Y/Y;11.25
+Coca-Cola Co;nyse;ko;P/E;27.68
+Coca-Cola Co;nyse;ko;Forward P/E;23.56
+Coca-Cola Co;nyse;ko;EV/Sales;6.62
+Coca-Cola Co;nyse;ko;EV/EBITDA;19.16
+Coca-Cola Co;nyse;ko;EV/EBIT;22.7
+Coca-Cola Co;nyse;ko;PEG;3.53
+Coca-Cola Co;nyse;ko;Price/Sales;6.34
+Coca-Cola Co;nyse;ko;P/FCF;28.37
+Coca-Cola Co;nyse;ko;Price/Book;11.31
+Coca-Cola Co;nyse;ko;Book/Share;5.39
+Coca-Cola Co;nyse;ko;Cash/Share;2.6
+Coca-Cola Co;nyse;ko;FCF yield;3.52
+Coca-Cola Co;nyse;ko;Employees;82500.0
+Coca-Cola Co;nyse;ko;RPE;521260.0
+Coca-Cola Co;nyse;ko;Shares outst.;4326000000.0
+Coca-Cola Co;nyse;ko;Short ratio;2.16
+Coca-Cola Co;nyse;ko;EPS;2.2
+Coca-Cola Co;nyse;ko;EPS Q/Q;6.15
+Coca-Cola Co;nyse;ko;Est. EPS Q/Q;0.0
+Coca-Cola Co;nyse;ko;Profit margin;22.19
+Coca-Cola Co;nyse;ko;Oper. margin;25.37
+Coca-Cola Co;nyse;ko;Gross margin;58.14
+Coca-Cola Co;nyse;ko;EBIT margin;29.16
+Coca-Cola Co;nyse;ko;EBITDA margin;34.55
+Coca-Cola Co;nyse;ko;Ret. on assets;10.25
+Coca-Cola Co;nyse;ko;Ret. on equity;40.28
+Coca-Cola Co;nyse;ko;ROIC;13.66
+Coca-Cola Co;nyse;ko;ROCE;17.17
+Coca-Cola Co;nyse;ko;Debt/Equity;2.78
+Coca-Cola Co;nyse;ko;Net debt/EBITDA;7.78
+Coca-Cola Co;nyse;ko;Current ratio;1.15
+Coca-Cola Co;nyse;ko;Quick ratio;0.93
+Coca-Cola Co;nyse;ko;Volatility;1.5
+Coca-Cola Co;nyse;ko;Beta;0.51
+Coca-Cola Co;nyse;ko;Dividend;1.78
+Coca-Cola Co;nyse;ko;Dividend yield;2.92
+Coca-Cola Co;nyse;ko;Payout ratio;80.91
+Coca-Cola Co;nyse;ko;IPO year;1978.0
+Coca-Cola Co;nyse;ko;Country;United States
+McDonald`s Corp;nyse;mcd;Market cap;201070000000.0
+McDonald`s Corp;nyse;mcd;Enterprise value;230140000000.0
+McDonald`s Corp;nyse;mcd;Revenue;23183000000.0
+McDonald`s Corp;nyse;mcd;EBITDA;10888000000.0
+McDonald`s Corp;nyse;mcd;Income;6177000000.0
+McDonald`s Corp;nyse;mcd;Revenue Q/Q;-1.37
+McDonald`s Corp;nyse;mcd;Revenue Y/Y;-0.17
+McDonald`s Corp;nyse;mcd;P/E;32.34
+McDonald`s Corp;nyse;mcd;Forward P/E;25.7
+McDonald`s Corp;nyse;mcd;EV/Sales;9.93
+McDonald`s Corp;nyse;mcd;EV/EBITDA;21.14
+McDonald`s Corp;nyse;mcd;EV/EBIT;25.48
+McDonald`s Corp;nyse;mcd;PEG;3.34
+McDonald`s Corp;nyse;mcd;Price/Sales;8.67
+McDonald`s Corp;nyse;mcd;P/FCF;36.38
+McDonald`s Corp;nyse;mcd;Price/Book;-33.49
+McDonald`s Corp;nyse;mcd;Book/Share;-8.1
+McDonald`s Corp;nyse;mcd;Cash/Share;3.49
+McDonald`s Corp;nyse;mcd;FCF yield;2.75
+McDonald`s Corp;nyse;mcd;Employees;200000.0
+McDonald`s Corp;nyse;mcd;RPE;115913.0
+McDonald`s Corp;nyse;mcd;Shares outst.;731497000.0
+McDonald`s Corp;nyse;mcd;Short ratio;2.13
+McDonald`s Corp;nyse;mcd;EPS;8.39
+McDonald`s Corp;nyse;mcd;EPS Q/Q;-2.9
+McDonald`s Corp;nyse;mcd;Est. EPS Q/Q;8.07
+McDonald`s Corp;nyse;mcd;Profit margin;26.65
+McDonald`s Corp;nyse;mcd;Oper. margin;40.42
+McDonald`s Corp;nyse;mcd;Gross margin;58.03
+McDonald`s Corp;nyse;mcd;EBIT margin;38.96
+McDonald`s Corp;nyse;mcd;EBITDA margin;46.97
+McDonald`s Corp;nyse;mcd;Ret. on assets;12.41
+McDonald`s Corp;nyse;mcd;Ret. on equity;-99.12
+McDonald`s Corp;nyse;mcd;ROIC;17.32
+McDonald`s Corp;nyse;mcd;ROCE;19.37
+McDonald`s Corp;nyse;mcd;Debt/Equity;-9.4
+McDonald`s Corp;nyse;mcd;Net debt/EBITDA;16.67
+McDonald`s Corp;nyse;mcd;Current ratio;1.43
+McDonald`s Corp;nyse;mcd;Quick ratio;1.41
+McDonald`s Corp;nyse;mcd;Volatility;1.57
+McDonald`s Corp;nyse;mcd;Beta;0.48
+McDonald`s Corp;nyse;mcd;Dividend;5.8
+McDonald`s Corp;nyse;mcd;Dividend yield;2.14
+McDonald`s Corp;nyse;mcd;Payout ratio;69.13
+McDonald`s Corp;nyse;mcd;IPO year;1978.0
+McDonald`s Corp;nyse;mcd;Country;United States
+Mondelez International Inc.;nasdaq;mdlz;Market cap;83230000000.0
+Mondelez International Inc.;nasdaq;mdlz;Enterprise value;110590000000.0
+Mondelez International Inc.;nasdaq;mdlz;Revenue;31496000000.0
+Mondelez International Inc.;nasdaq;mdlz;EBITDA;4313000000.0
+Mondelez International Inc.;nasdaq;mdlz;Income;2717000000.0
+Mondelez International Inc.;nasdaq;mdlz;Revenue Q/Q;13.54
+Mondelez International Inc.;nasdaq;mdlz;Revenue Y/Y;9.67
+Mondelez International Inc.;nasdaq;mdlz;P/E;35.05
+Mondelez International Inc.;nasdaq;mdlz;Forward P/E;21.4
+Mondelez International Inc.;nasdaq;mdlz;EV/Sales;3.51
+Mondelez International Inc.;nasdaq;mdlz;EV/EBITDA;25.64
+Mondelez International Inc.;nasdaq;mdlz;EV/EBIT;27.61
+Mondelez International Inc.;nasdaq;mdlz;PEG;2.84
+Mondelez International Inc.;nasdaq;mdlz;Price/Sales;2.64
+Mondelez International Inc.;nasdaq;mdlz;P/FCF;27.73
+Mondelez International Inc.;nasdaq;mdlz;Price/Book;3.1
+Mondelez International Inc.;nasdaq;mdlz;Book/Share;22.3
+Mondelez International Inc.;nasdaq;mdlz;Cash/Share;1.6
+Mondelez International Inc.;nasdaq;mdlz;FCF yield;3.61
+Mondelez International Inc.;nasdaq;mdlz;Employees;80000.0
+Mondelez International Inc.;nasdaq;mdlz;RPE;393700.0
+Mondelez International Inc.;nasdaq;mdlz;Shares outst.;1363000000.0
+Mondelez International Inc.;nasdaq;mdlz;Short ratio;1.47
+Mondelez International Inc.;nasdaq;mdlz;EPS;1.97
+Mondelez International Inc.;nasdaq;mdlz;EPS Q/Q;1.52
+Mondelez International Inc.;nasdaq;mdlz;Est. EPS Q/Q;-1.43
+Mondelez International Inc.;nasdaq;mdlz;Profit margin;8.63
+Mondelez International Inc.;nasdaq;mdlz;Oper. margin;11.22
+Mondelez International Inc.;nasdaq;mdlz;Gross margin;35.92
+Mondelez International Inc.;nasdaq;mdlz;EBIT margin;12.72
+Mondelez International Inc.;nasdaq;mdlz;EBITDA margin;13.69
+Mondelez International Inc.;nasdaq;mdlz;Ret. on assets;3.98
+Mondelez International Inc.;nasdaq;mdlz;Ret. on equity;9.95
+Mondelez International Inc.;nasdaq;mdlz;ROIC;5.8
+Mondelez International Inc.;nasdaq;mdlz;ROCE;7.36
+Mondelez International Inc.;nasdaq;mdlz;Debt/Equity;1.65
+Mondelez International Inc.;nasdaq;mdlz;Net debt/EBITDA;17.99
+Mondelez International Inc.;nasdaq;mdlz;Current ratio;0.6
+Mondelez International Inc.;nasdaq;mdlz;Quick ratio;0.4
+Mondelez International Inc.;nasdaq;mdlz;Volatility;1.7
+Mondelez International Inc.;nasdaq;mdlz;Beta;0.58
+Mondelez International Inc.;nasdaq;mdlz;Dividend;1.47
+Mondelez International Inc.;nasdaq;mdlz;Dividend yield;2.13
+Mondelez International Inc.;nasdaq;mdlz;Payout ratio;74.62
+Mondelez International Inc.;nasdaq;mdlz;IPO year;2012.0
+Mondelez International Inc.;nasdaq;mdlz;Country;United States
+3M Co.;nyse;mmm;Market cap;70440000000.0
+3M Co.;nyse;mmm;Enterprise value;73370000000.0
+3M Co.;nyse;mmm;Revenue;34229000000.0
+3M Co.;nyse;mmm;EBITDA;5928000000.0
+3M Co.;nyse;mmm;Income;5777000000.0
+3M Co.;nyse;mmm;Revenue Q/Q;-6.19
+3M Co.;nyse;mmm;Revenue Y/Y;-3.18
+3M Co.;nyse;mmm;P/E;9.91
+3M Co.;nyse;mmm;Forward P/E;10.64
+3M Co.;nyse;mmm;EV/Sales;2.14
+3M Co.;nyse;mmm;EV/EBITDA;12.38
+3M Co.;nyse;mmm;EV/EBIT;11.48
+3M Co.;nyse;mmm;PEG;2.31
+3M Co.;nyse;mmm;Price/Sales;2.06
+3M Co.;nyse;mmm;P/FCF;17.43
+3M Co.;nyse;mmm;Price/Book;4.78
+3M Co.;nyse;mmm;Book/Share;21.14
+3M Co.;nyse;mmm;Cash/Share;5.59
+3M Co.;nyse;mmm;FCF yield;5.74
+3M Co.;nyse;mmm;Employees;92000.0
+3M Co.;nyse;mmm;RPE;372054.0
+3M Co.;nyse;mmm;Shares outst.;551469000.0
+3M Co.;nyse;mmm;Short ratio;3.97
+3M Co.;nyse;mmm;EPS;10.21
+3M Co.;nyse;mmm;EPS Q/Q;9.8
+3M Co.;nyse;mmm;Est. EPS Q/Q;6.06
+3M Co.;nyse;mmm;Profit margin;16.88
+3M Co.;nyse;mmm;Oper. margin;19.1
+3M Co.;nyse;mmm;Gross margin;43.81
+3M Co.;nyse;mmm;EBIT margin;18.67
+3M Co.;nyse;mmm;EBITDA margin;17.32
+3M Co.;nyse;mmm;Ret. on assets;12.55
+3M Co.;nyse;mmm;Ret. on equity;40.21
+3M Co.;nyse;mmm;ROIC;13.68
+3M Co.;nyse;mmm;ROCE;17.3
+3M Co.;nyse;mmm;Debt/Equity;2.15
+3M Co.;nyse;mmm;Net debt/EBITDA;9.13
+3M Co.;nyse;mmm;Current ratio;1.54
+3M Co.;nyse;mmm;Quick ratio;0.98
+3M Co.;nyse;mmm;Volatility;2.48
+3M Co.;nyse;mmm;Beta;0.78
+3M Co.;nyse;mmm;Dividend;5.97
+3M Co.;nyse;mmm;Dividend yield;5.9
+3M Co.;nyse;mmm;Payout ratio;58.47
+3M Co.;nyse;mmm;IPO year;1978.0
+3M Co.;nyse;mmm;Country;United States
+Microsoft Corporation;nasdq;msft;Market cap;1870000000000.0
+Microsoft Corporation;nasdq;msft;Enterprise value;1850000000000.0
+Microsoft Corporation;nasdq;msft;Revenue;204094000000.0
+Microsoft Corporation;nasdq;msft;EBITDA;97005000000.0
+Microsoft Corporation;nasdq;msft;Income;67449000000.0
+Microsoft Corporation;nasdq;msft;Revenue Q/Q;1.97
+Microsoft Corporation;nasdq;msft;Revenue Y/Y;10.38
+Microsoft Corporation;nasdq;msft;P/E;31.11
+Microsoft Corporation;nasdq;msft;Forward P/E;26.73
+Microsoft Corporation;nasdq;msft;EV/Sales;9.06
+Microsoft Corporation;nasdq;msft;EV/EBITDA;19.06
+Microsoft Corporation;nasdq;msft;EV/EBIT;21.86
+Microsoft Corporation;nasdq;msft;PEG;2.17
+Microsoft Corporation;nasdq;msft;Price/Sales;9.16
+Microsoft Corporation;nasdq;msft;P/FCF;31.35
+Microsoft Corporation;nasdq;msft;Price/Book;11.22
+Microsoft Corporation;nasdq;msft;Book/Share;25.0
+Microsoft Corporation;nasdq;msft;Cash/Share;15.73
+Microsoft Corporation;nasdq;msft;FCF yield;3.19
+Microsoft Corporation;nasdq;msft;Employees;221000.0
+Microsoft Corporation;nasdq;msft;RPE;923502.0
+Microsoft Corporation;nasdq;msft;Shares outst.;7444000000.0
+Microsoft Corporation;nasdq;msft;Short ratio;1.28
+Microsoft Corporation;nasdq;msft;EPS;9.02
+Microsoft Corporation;nasdq;msft;EPS Q/Q;3.52
+Microsoft Corporation;nasdq;msft;Est. EPS Q/Q;-5.24
+Microsoft Corporation;nasdq;msft;Profit margin;36.69
+Microsoft Corporation;nasdq;msft;Oper. margin;40.58
+Microsoft Corporation;nasdq;msft;Gross margin;68.4
+Microsoft Corporation;nasdq;msft;EBIT margin;41.44
+Microsoft Corporation;nasdq;msft;EBITDA margin;47.53
+Microsoft Corporation;nasdq;msft;Ret. on assets;18.82
+Microsoft Corporation;nasdq;msft;Ret. on equity;39.32
+Microsoft Corporation;nasdq;msft;ROIC;24.56
+Microsoft Corporation;nasdq;msft;ROCE;29.9
+Microsoft Corporation;nasdq;msft;Debt/Equity;1.19
+Microsoft Corporation;nasdq;msft;Net debt/EBITDA;-1.79
+Microsoft Corporation;nasdq;msft;Current ratio;1.93
+Microsoft Corporation;nasdq;msft;Quick ratio;1.89
+Microsoft Corporation;nasdq;msft;Volatility;2.54
+Microsoft Corporation;nasdq;msft;Beta;1.27
+Microsoft Corporation;nasdq;msft;Dividend;2.6
+Microsoft Corporation;nasdq;msft;Dividend yield;0.93
+Microsoft Corporation;nasdq;msft;Payout ratio;28.82
+Microsoft Corporation;nasdq;msft;IPO year;1986.0
+Microsoft Corporation;nasdq;msft;Country;United States
+Nike, Inc.;nyse;nke;Market cap;174370000000.0
+Nike, Inc.;nyse;nke;Enterprise value;149460000000.0
+Nike, Inc.;nyse;nke;Revenue;49107000000.0
+Nike, Inc.;nyse;nke;EBITDA;7080000000.0
+Nike, Inc.;nyse;nke;Income;5634000000.0
+Nike, Inc.;nyse;nke;Revenue Q/Q;17.24
+Nike, Inc.;nyse;nke;Revenue Y/Y;6.05
+Nike, Inc.;nyse;nke;P/E;33.62
+Nike, Inc.;nyse;nke;Forward P/E;40.64
+Nike, Inc.;nyse;nke;EV/Sales;3.04
+Nike, Inc.;nyse;nke;EV/EBITDA;21.11
+Nike, Inc.;nyse;nke;EV/EBIT;22.5
+Nike, Inc.;nyse;nke;PEG;3.63
+Nike, Inc.;nyse;nke;Price/Sales;3.55
+Nike, Inc.;nyse;nke;P/FCF;97.85
+Nike, Inc.;nyse;nke;Price/Book;11.41
+Nike, Inc.;nyse;nke;Book/Share;10.58
+Nike, Inc.;nyse;nke;Cash/Share;9.0
+Nike, Inc.;nyse;nke;FCF yield;1.02
+Nike, Inc.;nyse;nke;Employees;79100.0
+Nike, Inc.;nyse;nke;RPE;620822.0
+Nike, Inc.;nyse;nke;Shares outst.;1560000000.0
+Nike, Inc.;nyse;nke;Short ratio;2.17
+Nike, Inc.;nyse;nke;EPS;3.59
+Nike, Inc.;nyse;nke;EPS Q/Q;-19.83
+Nike, Inc.;nyse;nke;Est. EPS Q/Q;-21.69
+Nike, Inc.;nyse;nke;Profit margin;12.94
+Nike, Inc.;nyse;nke;Oper. margin;12.99
+Nike, Inc.;nyse;nke;Gross margin;45.98
+Nike, Inc.;nyse;nke;EBIT margin;13.53
+Nike, Inc.;nyse;nke;EBITDA margin;14.42
+Nike, Inc.;nyse;nke;Ret. on assets;14.12
+Nike, Inc.;nyse;nke;Ret. on equity;36.83
+Nike, Inc.;nyse;nke;ROIC;17.57
+Nike, Inc.;nyse;nke;ROCE;22.56
+Nike, Inc.;nyse;nke;Debt/Equity;1.64
+Nike, Inc.;nyse;nke;Net debt/EBITDA;0.2
+Nike, Inc.;nyse;nke;Current ratio;2.69
+Nike, Inc.;nyse;nke;Quick ratio;1.78
+Nike, Inc.;nyse;nke;Volatility;2.57
+Nike, Inc.;nyse;nke;Beta;1.34
+Nike, Inc.;nyse;nke;Dividend;1.29
+Nike, Inc.;nyse;nke;Dividend yield;1.07
+Nike, Inc.;nyse;nke;Payout ratio;35.93
+Nike, Inc.;nyse;nke;IPO year;1980.0
+Nike, Inc.;nyse;nke;Country;United States
+NVIDIA Corp;nasdaq;nvda;Market cap;422440000000.0
+NVIDIA Corp;nasdaq;nvda;Enterprise value;587740000000.0
+NVIDIA Corp;nasdaq;nvda;Revenue;26974000000.0
+NVIDIA Corp;nasdaq;nvda;EBITDA;7121000000.0
+NVIDIA Corp;nasdaq;nvda;Income;4368000000.0
+NVIDIA Corp;nasdaq;nvda;Revenue Q/Q;-20.83
+NVIDIA Corp;nasdaq;nvda;Revenue Y/Y;0.22
+NVIDIA Corp;nasdaq;nvda;P/E;152.15
+NVIDIA Corp;nasdaq;nvda;Forward P/E;55.09
+NVIDIA Corp;nasdaq;nvda;EV/Sales;21.79
+NVIDIA Corp;nasdaq;nvda;EV/EBITDA;82.54
+NVIDIA Corp;nasdaq;nvda;EV/EBIT;132.28
+NVIDIA Corp;nasdaq;nvda;PEG;4.04
+NVIDIA Corp;nasdaq;nvda;Price/Sales;15.66
+NVIDIA Corp;nasdaq;nvda;P/FCF;110.94
+NVIDIA Corp;nasdaq;nvda;Price/Book;19.11
+NVIDIA Corp;nasdaq;nvda;Book/Share;14.01
+NVIDIA Corp;nasdaq;nvda;Cash/Share;8.43
+NVIDIA Corp;nasdaq;nvda;FCF yield;0.9
+NVIDIA Corp;nasdaq;nvda;Employees;22473.0
+NVIDIA Corp;nasdaq;nvda;RPE;1200000.0
+NVIDIA Corp;nasdaq;nvda;Shares outst.;2470000000.0
+NVIDIA Corp;nasdaq;nvda;Short ratio;0.53
+NVIDIA Corp;nasdaq;nvda;EPS;1.76
+NVIDIA Corp;nasdaq;nvda;EPS Q/Q;-50.96
+NVIDIA Corp;nasdaq;nvda;Est. EPS Q/Q;-40.17
+NVIDIA Corp;nasdaq;nvda;Profit margin;16.19
+NVIDIA Corp;nasdaq;nvda;Oper. margin;15.66
+NVIDIA Corp;nasdaq;nvda;Gross margin;56.93
+NVIDIA Corp;nasdaq;nvda;EBIT margin;16.47
+NVIDIA Corp;nasdaq;nvda;EBITDA margin;26.4
+NVIDIA Corp;nasdaq;nvda;Ret. on assets;10.26
+NVIDIA Corp;nasdaq;nvda;Ret. on equity;18.66
+NVIDIA Corp;nasdaq;nvda;ROIC;10.41
+NVIDIA Corp;nasdaq;nvda;ROCE;12.83
+NVIDIA Corp;nasdaq;nvda;Debt/Equity;0.86
+NVIDIA Corp;nasdaq;nvda;Net debt/EBITDA;-2.36
+NVIDIA Corp;nasdaq;nvda;Current ratio;3.52
+NVIDIA Corp;nasdaq;nvda;Quick ratio;2.73
+NVIDIA Corp;nasdaq;nvda;Volatility;3.83
+NVIDIA Corp;nasdaq;nvda;Beta;2.1
+NVIDIA Corp;nasdaq;nvda;Dividend;0.16
+NVIDIA Corp;nasdaq;nvda;Dividend yield;0.06
+NVIDIA Corp;nasdaq;nvda;Payout ratio;9.09
+NVIDIA Corp;nasdaq;nvda;IPO year;1999.0
+NVIDIA Corp;nasdaq;nvda;Country;United States
+Oracle Corp.;nyse;orcl;Market cap;219140000000.0
+Oracle Corp.;nyse;orcl;Enterprise value;324210000000.0
+Oracle Corp.;nyse;orcl;Revenue;47958000000.0
+Oracle Corp.;nyse;orcl;EBITDA;16921000000.0
+Oracle Corp.;nyse;orcl;Income;8374000000.0
+Oracle Corp.;nyse;orcl;Revenue Q/Q;17.93
+Oracle Corp.;nyse;orcl;Revenue Y/Y;14.66
+Oracle Corp.;nyse;orcl;P/E;28.21
+Oracle Corp.;nyse;orcl;Forward P/E;0.0
+Oracle Corp.;nyse;orcl;EV/Sales;6.76
+Oracle Corp.;nyse;orcl;EV/EBITDA;19.16
+Oracle Corp.;nyse;orcl;EV/EBIT;25.14
+Oracle Corp.;nyse;orcl;PEG;1.52
+Oracle Corp.;nyse;orcl;Price/Sales;4.57
+Oracle Corp.;nyse;orcl;P/FCF;30.03
+Oracle Corp.;nyse;orcl;Price/Book;-35.23
+Oracle Corp.;nyse;orcl;Book/Share;-2.5
+Oracle Corp.;nyse;orcl;Cash/Share;8.8
+Oracle Corp.;nyse;orcl;FCF yield;3.33
+Oracle Corp.;nyse;orcl;Employees;143000.0
+Oracle Corp.;nyse;orcl;RPE;335371.0
+Oracle Corp.;nyse;orcl;Shares outst.;2700000000.0
+Oracle Corp.;nyse;orcl;Short ratio;1.28
+Oracle Corp.;nyse;orcl;EPS;3.12
+Oracle Corp.;nyse;orcl;EPS Q/Q;0.0
+Oracle Corp.;nyse;orcl;Est. EPS Q/Q;-2.48
+Oracle Corp.;nyse;orcl;Profit margin;15.83
+Oracle Corp.;nyse;orcl;Oper. margin;28.06
+Oracle Corp.;nyse;orcl;Gross margin;79.08
+Oracle Corp.;nyse;orcl;EBIT margin;26.89
+Oracle Corp.;nyse;orcl;EBITDA margin;35.28
+Oracle Corp.;nyse;orcl;Ret. on assets;6.7
+Oracle Corp.;nyse;orcl;Ret. on equity;-178.53
+Oracle Corp.;nyse;orcl;ROIC;8.7
+Oracle Corp.;nyse;orcl;ROCE;11.86
+Oracle Corp.;nyse;orcl;Debt/Equity;-18.5
+Oracle Corp.;nyse;orcl;Net debt/EBITDA;17.78
+Oracle Corp.;nyse;orcl;Current ratio;0.82
+Oracle Corp.;nyse;orcl;Quick ratio;0.82
+Oracle Corp.;nyse;orcl;Volatility;2.19
+Oracle Corp.;nyse;orcl;Beta;0.85
+Oracle Corp.;nyse;orcl;Dividend;1.28
+Oracle Corp.;nyse;orcl;Dividend yield;1.45
+Oracle Corp.;nyse;orcl;Payout ratio;41.03
+Oracle Corp.;nyse;orcl;IPO year;1986.0
+Oracle Corp.;nyse;orcl;Country;United States
+PepsiCo Inc;nasdaq;pep;Market cap;253160000000.0
+PepsiCo Inc;nasdaq;pep;Enterprise value;272190000000.0
+PepsiCo Inc;nasdaq;pep;Revenue;86392000000.0
+PepsiCo Inc;nasdaq;pep;EBITDA;14637000000.0
+PepsiCo Inc;nasdaq;pep;Income;8910000000.0
+PepsiCo Inc;nasdaq;pep;Revenue Q/Q;10.88
+PepsiCo Inc;nasdaq;pep;Revenue Y/Y;8.7
+PepsiCo Inc;nasdaq;pep;P/E;27.77
+PepsiCo Inc;nasdaq;pep;Forward P/E;23.78
+PepsiCo Inc;nasdaq;pep;EV/Sales;3.15
+PepsiCo Inc;nasdaq;pep;EV/EBITDA;18.6
+PepsiCo Inc;nasdaq;pep;EV/EBIT;23.51
+PepsiCo Inc;nasdaq;pep;PEG;3.01
+PepsiCo Inc;nasdaq;pep;Price/Sales;2.93
+PepsiCo Inc;nasdaq;pep;P/FCF;43.24
+PepsiCo Inc;nasdaq;pep;Price/Book;14.76
+PepsiCo Inc;nasdaq;pep;Book/Share;12.13
+PepsiCo Inc;nasdaq;pep;Cash/Share;3.78
+PepsiCo Inc;nasdaq;pep;FCF yield;2.31
+PepsiCo Inc;nasdaq;pep;Employees;2020.0
+PepsiCo Inc;nasdaq;pep;RPE;42768000.0
+PepsiCo Inc;nasdaq;pep;Shares outst.;1377000000.0
+PepsiCo Inc;nasdaq;pep;Short ratio;1.56
+PepsiCo Inc;nasdaq;pep;EPS;6.45
+PepsiCo Inc;nasdaq;pep;EPS Q/Q;10.06
+PepsiCo Inc;nasdaq;pep;Est. EPS Q/Q;7.19
+PepsiCo Inc;nasdaq;pep;Profit margin;10.31
+PepsiCo Inc;nasdaq;pep;Oper. margin;13.33
+PepsiCo Inc;nasdaq;pep;Gross margin;53.03
+PepsiCo Inc;nasdaq;pep;EBIT margin;13.4
+PepsiCo Inc;nasdaq;pep;EBITDA margin;16.94
+PepsiCo Inc;nasdaq;pep;Ret. on assets;9.56
+PepsiCo Inc;nasdaq;pep;Ret. on equity;48.9
+PepsiCo Inc;nasdaq;pep;ROIC;12.56
+PepsiCo Inc;nasdaq;pep;ROCE;17.7
+PepsiCo Inc;nasdaq;pep;Debt/Equity;4.37
+PepsiCo Inc;nasdaq;pep;Net debt/EBITDA;9.08
+PepsiCo Inc;nasdaq;pep;Current ratio;0.8
+PepsiCo Inc;nasdaq;pep;Quick ratio;0.61
+PepsiCo Inc;nasdaq;pep;Volatility;1.51
+PepsiCo Inc;nasdaq;pep;Beta;0.49
+PepsiCo Inc;nasdaq;pep;Dividend;4.6
+PepsiCo Inc;nasdaq;pep;Dividend yield;2.57
+PepsiCo Inc;nasdaq;pep;Payout ratio;71.32
+PepsiCo Inc;nasdaq;pep;IPO year;1972.0
+PepsiCo Inc;nasdaq;pep;Country;United States
+Procter & Gamble Co.;nyse;pg;Market cap;357630000000.0
+Procter & Gamble Co.;nyse;pg;Enterprise value;360550000000.0
+Procter & Gamble Co.;nyse;pg;Revenue;80281000000.0
+Procter & Gamble Co.;nyse;pg;EBITDA;20074000000.0
+Procter & Gamble Co.;nyse;pg;Income;14279000000.0
+Procter & Gamble Co.;nyse;pg;Revenue Q/Q;-0.86
+Procter & Gamble Co.;nyse;pg;Revenue Y/Y;2.47
+Procter & Gamble Co.;nyse;pg;P/E;25.04
+Procter & Gamble Co.;nyse;pg;Forward P/E;24.26
+Procter & Gamble Co.;nyse;pg;EV/Sales;4.49
+Procter & Gamble Co.;nyse;pg;EV/EBITDA;17.96
+Procter & Gamble Co.;nyse;pg;EV/EBIT;20.03
+Procter & Gamble Co.;nyse;pg;PEG;4.92
+Procter & Gamble Co.;nyse;pg;Price/Sales;4.45
+Procter & Gamble Co.;nyse;pg;P/FCF;30.92
+Procter & Gamble Co.;nyse;pg;Price/Book;7.63
+Procter & Gamble Co.;nyse;pg;Book/Share;19.22
+Procter & Gamble Co.;nyse;pg;Cash/Share;2.96
+Procter & Gamble Co.;nyse;pg;FCF yield;3.23
+Procter & Gamble Co.;nyse;pg;Employees;106000.0
+Procter & Gamble Co.;nyse;pg;RPE;757368.0
+Procter & Gamble Co.;nyse;pg;Shares outst.;2359000000.0
+Procter & Gamble Co.;nyse;pg;Short ratio;1.81
+Procter & Gamble Co.;nyse;pg;EPS;5.86
+Procter & Gamble Co.;nyse;pg;EPS Q/Q;-2.48
+Procter & Gamble Co.;nyse;pg;Est. EPS Q/Q;-4.82
+Procter & Gamble Co.;nyse;pg;Profit margin;18.38
+Procter & Gamble Co.;nyse;pg;Oper. margin;21.61
+Procter & Gamble Co.;nyse;pg;Gross margin;47.43
+Procter & Gamble Co.;nyse;pg;EBIT margin;22.42
+Procter & Gamble Co.;nyse;pg;EBITDA margin;25.0
+Procter & Gamble Co.;nyse;pg;Ret. on assets;12.12
+Procter & Gamble Co.;nyse;pg;Ret. on equity;31.44
+Procter & Gamble Co.;nyse;pg;ROIC;15.55
+Procter & Gamble Co.;nyse;pg;ROCE;22.8
+Procter & Gamble Co.;nyse;pg;Debt/Equity;1.5
+Procter & Gamble Co.;nyse;pg;Net debt/EBITDA;5.17
+Procter & Gamble Co.;nyse;pg;Current ratio;0.56
+Procter & Gamble Co.;nyse;pg;Quick ratio;0.37
+Procter & Gamble Co.;nyse;pg;Volatility;1.55
+Procter & Gamble Co.;nyse;pg;Beta;0.49
+Procter & Gamble Co.;nyse;pg;Dividend;3.65
+Procter & Gamble Co.;nyse;pg;Dividend yield;2.49
+Procter & Gamble Co.;nyse;pg;Payout ratio;62.34
+Procter & Gamble Co.;nyse;pg;IPO year;1978.0
+Procter & Gamble Co.;nyse;pg;Country;United States
+Charles Schwab Corp.;nyse;schw;Market cap;146990000000.0
+Charles Schwab Corp.;nyse;schw;Enterprise value;140560000000.0
+Charles Schwab Corp.;nyse;schw;Revenue;20762000000.0
+Charles Schwab Corp.;nyse;schw;EBITDA;10636000000.0
+Charles Schwab Corp.;nyse;schw;Income;6635000000.0
+Charles Schwab Corp.;nyse;schw;Revenue Q/Q;16.76
+Charles Schwab Corp.;nyse;schw;Revenue Y/Y;12.11
+Charles Schwab Corp.;nyse;schw;P/E;15.66
+Charles Schwab Corp.;nyse;schw;Forward P/E;0.0
+Charles Schwab Corp.;nyse;schw;EV/Sales;6.77
+Charles Schwab Corp.;nyse;schw;EV/EBITDA;13.22
+Charles Schwab Corp.;nyse;schw;EV/EBIT;14.97
+Charles Schwab Corp.;nyse;schw;PEG;0.85
+Charles Schwab Corp.;nyse;schw;Price/Sales;7.08
+Charles Schwab Corp.;nyse;schw;P/FCF;135.35
+Charles Schwab Corp.;nyse;schw;Price/Book;4.02
+Charles Schwab Corp.;nyse;schw;Book/Share;13.72
+Charles Schwab Corp.;nyse;schw;Cash/Share;0.0
+Charles Schwab Corp.;nyse;schw;FCF yield;0.74
+Charles Schwab Corp.;nyse;schw;Employees;2020.0
+Charles Schwab Corp.;nyse;schw;RPE;10278000.0
+Charles Schwab Corp.;nyse;schw;Shares outst.;1791000000.0
+Charles Schwab Corp.;nyse;schw;Short ratio;2.3
+Charles Schwab Corp.;nyse;schw;EPS;3.52
+Charles Schwab Corp.;nyse;schw;EPS Q/Q;30.95
+Charles Schwab Corp.;nyse;schw;Est. EPS Q/Q;27.91
+Charles Schwab Corp.;nyse;schw;Profit margin;34.6
+Charles Schwab Corp.;nyse;schw;Oper. margin;45.22
+Charles Schwab Corp.;nyse;schw;Gross margin;100.0
+Charles Schwab Corp.;nyse;schw;EBIT margin;45.22
+Charles Schwab Corp.;nyse;schw;EBITDA margin;51.23
+Charles Schwab Corp.;nyse;schw;Ret. on assets;1.17
+Charles Schwab Corp.;nyse;schw;Ret. on equity;17.28
+Charles Schwab Corp.;nyse;schw;ROIC;1.54
+Charles Schwab Corp.;nyse;schw;ROCE;1.7
+Charles Schwab Corp.;nyse;schw;Debt/Equity;14.07
+Charles Schwab Corp.;nyse;schw;Net debt/EBITDA;-30.99
+Charles Schwab Corp.;nyse;schw;Current ratio;0.39
+Charles Schwab Corp.;nyse;schw;Quick ratio;0.39
+Charles Schwab Corp.;nyse;schw;Volatility;7.23
+Charles Schwab Corp.;nyse;schw;Beta;0.94
+Charles Schwab Corp.;nyse;schw;Dividend;0.89
+Charles Schwab Corp.;nyse;schw;Dividend yield;1.67
+Charles Schwab Corp.;nyse;schw;Payout ratio;25.28
+Charles Schwab Corp.;nyse;schw;IPO year;2003.0
+Charles Schwab Corp.;nyse;schw;Country;United States
+Stanley Black & Decker Inc;nyse;swk;Market cap;12730000000.0
+Stanley Black & Decker Inc;nyse;swk;Enterprise value;20410000000.0
+Stanley Black & Decker Inc;nyse;swk;Revenue;16947000000.0
+Stanley Black & Decker Inc;nyse;swk;EBITDA;1212000000.0
+Stanley Black & Decker Inc;nyse;swk;Income;1063000000.0
+Stanley Black & Decker Inc;nyse;swk;Revenue Q/Q;39.59
+Stanley Black & Decker Inc;nyse;swk;Revenue Y/Y;8.52
+Stanley Black & Decker Inc;nyse;swk;P/E;10.73
+Stanley Black & Decker Inc;nyse;swk;Forward P/E;18.82
+Stanley Black & Decker Inc;nyse;swk;EV/Sales;1.2
+Stanley Black & Decker Inc;nyse;swk;EV/EBITDA;16.85
+Stanley Black & Decker Inc;nyse;swk;EV/EBIT;16.09
+Stanley Black & Decker Inc;nyse;swk;PEG;1.37
+Stanley Black & Decker Inc;nyse;swk;Price/Sales;0.75
+Stanley Black & Decker Inc;nyse;swk;P/FCF;0.0
+Stanley Black & Decker Inc;nyse;swk;Price/Book;1.31
+Stanley Black & Decker Inc;nyse;swk;Book/Share;58.37
+Stanley Black & Decker Inc;nyse;swk;Cash/Share;2.38
+Stanley Black & Decker Inc;nyse;swk;FCF yield;-15.63
+Stanley Black & Decker Inc;nyse;swk;Employees;0.0
+Stanley Black & Decker Inc;nyse;swk;RPE;8385999.0
+Stanley Black & Decker Inc;nyse;swk;Shares outst.;153055000.0
+Stanley Black & Decker Inc;nyse;swk;Short ratio;3.72
+Stanley Black & Decker Inc;nyse;swk;EPS;7.13
+Stanley Black & Decker Inc;nyse;swk;EPS Q/Q;-72.56
+Stanley Black & Decker Inc;nyse;swk;Est. EPS Q/Q;-65.84
+Stanley Black & Decker Inc;nyse;swk;Profit margin;6.27
+Stanley Black & Decker Inc;nyse;swk;Oper. margin;3.57
+Stanley Black & Decker Inc;nyse;swk;Gross margin;25.28
+Stanley Black & Decker Inc;nyse;swk;EBIT margin;7.49
+Stanley Black & Decker Inc;nyse;swk;EBITDA margin;7.15
+Stanley Black & Decker Inc;nyse;swk;Ret. on assets;3.89
+Stanley Black & Decker Inc;nyse;swk;Ret. on equity;11.28
+Stanley Black & Decker Inc;nyse;swk;ROIC;4.78
+Stanley Black & Decker Inc;nyse;swk;ROCE;6.9
+Stanley Black & Decker Inc;nyse;swk;Debt/Equity;1.57
+Stanley Black & Decker Inc;nyse;swk;Net debt/EBITDA;29.51
+Stanley Black & Decker Inc;nyse;swk;Current ratio;1.21
+Stanley Black & Decker Inc;nyse;swk;Quick ratio;0.32
+Stanley Black & Decker Inc;nyse;swk;Volatility;3.59
+Stanley Black & Decker Inc;nyse;swk;Beta;1.19
+Stanley Black & Decker Inc;nyse;swk;Dividend;3.19
+Stanley Black & Decker Inc;nyse;swk;Dividend yield;4.3
+Stanley Black & Decker Inc;nyse;swk;Payout ratio;44.74
+Stanley Black & Decker Inc;nyse;swk;IPO year;1978.0
+Stanley Black & Decker Inc;nyse;swk;Country;United States
+AT&T, Inc.;nyse;t;Market cap;136539999999.0
+AT&T, Inc.;nyse;t;Enterprise value;266430000000.0
+AT&T, Inc.;nyse;t;Revenue;129133999999.0
+AT&T, Inc.;nyse;t;EBITDA;42723000000.0
+AT&T, Inc.;nyse;t;Income;-8.73
+AT&T, Inc.;nyse;t;Revenue Q/Q;-23.48
+AT&T, Inc.;nyse;t;Revenue Y/Y;-23.53
+AT&T, Inc.;nyse;t;P/E;0.0
+AT&T, Inc.;nyse;t;Forward P/E;7.32
+AT&T, Inc.;nyse;t;EV/Sales;2.06
+AT&T, Inc.;nyse;t;EV/EBITDA;6.24
+AT&T, Inc.;nyse;t;EV/EBIT;182.11
+AT&T, Inc.;nyse;t;PEG;4.7
+AT&T, Inc.;nyse;t;Price/Sales;1.06
+AT&T, Inc.;nyse;t;P/FCF;11.01
+AT&T, Inc.;nyse;t;Price/Book;1.4
+AT&T, Inc.;nyse;t;Book/Share;13.29
+AT&T, Inc.;nyse;t;Cash/Share;0.5
+AT&T, Inc.;nyse;t;FCF yield;9.08
+AT&T, Inc.;nyse;t;Employees;2020.0
+AT&T, Inc.;nyse;t;RPE;63928000.0
+AT&T, Inc.;nyse;t;Shares outst.;7130000000.0
+AT&T, Inc.;nyse;t;Short ratio;1.91
+AT&T, Inc.;nyse;t;EPS;0.0
+AT&T, Inc.;nyse;t;EPS Q/Q;-21.84
+AT&T, Inc.;nyse;t;Est. EPS Q/Q;-26.92
+AT&T, Inc.;nyse;t;Profit margin;-7.06
+AT&T, Inc.;nyse;t;Oper. margin;-3.47
+AT&T, Inc.;nyse;t;Gross margin;57.89
+AT&T, Inc.;nyse;t;EBIT margin;1.13
+AT&T, Inc.;nyse;t;EBITDA margin;33.08
+AT&T, Inc.;nyse;t;Ret. on assets;-1.86
+AT&T, Inc.;nyse;t;Ret. on equity;-6.73
+AT&T, Inc.;nyse;t;ROIC;0.29
+AT&T, Inc.;nyse;t;ROCE;0.42
+AT&T, Inc.;nyse;t;Debt/Equity;3.04
+AT&T, Inc.;nyse;t;Net debt/EBITDA;15.06
+AT&T, Inc.;nyse;t;Current ratio;0.59
+AT&T, Inc.;nyse;t;Quick ratio;0.53
+AT&T, Inc.;nyse;t;Volatility;1.94
+AT&T, Inc.;nyse;t;Beta;0.51
+AT&T, Inc.;nyse;t;Dividend;1.11
+AT&T, Inc.;nyse;t;Dividend yield;5.96
+AT&T, Inc.;nyse;t;Payout ratio;40.22
+AT&T, Inc.;nyse;t;IPO year;1983.0
+AT&T, Inc.;nyse;t;Country;United States
+Unilever plc;nyse;ul;Market cap;127880000000.0
+Unilever plc;nyse;ul;Enterprise value;154890000000.0
+Unilever plc;nyse;ul;Revenue;59318000000.0
+Unilever plc;nyse;ul;EBITDA;13109000000.0
+Unilever plc;nyse;ul;Income;5833000000.0
+Unilever plc;nyse;ul;Revenue Q/Q;0.0
+Unilever plc;nyse;ul;Revenue Y/Y;0.0
+Unilever plc;nyse;ul;P/E;8.8
+Unilever plc;nyse;ul;Forward P/E;0.0
+Unilever plc;nyse;ul;EV/Sales;2.55
+Unilever plc;nyse;ul;EV/EBITDA;11.54
+Unilever plc;nyse;ul;EV/EBIT;0.0
+Unilever plc;nyse;ul;PEG;2.56
+Unilever plc;nyse;ul;Price/Sales;2.19
+Unilever plc;nyse;ul;P/FCF;7.0
+Unilever plc;nyse;ul;Price/Book;5.59
+Unilever plc;nyse;ul;Book/Share;9.19
+Unilever plc;nyse;ul;Cash/Share;1.86
+Unilever plc;nyse;ul;FCF yield;0.0
+Unilever plc;nyse;ul;Employees;150000.0
+Unilever plc;nyse;ul;RPE;395456.0
+Unilever plc;nyse;ul;Shares outst.;2532000000.0
+Unilever plc;nyse;ul;Short ratio;1.21
+Unilever plc;nyse;ul;EPS;5.84
+Unilever plc;nyse;ul;EPS Q/Q;0.0
+Unilever plc;nyse;ul;Est. EPS Q/Q;0.0
+Unilever plc;nyse;ul;Profit margin;13.76
+Unilever plc;nyse;ul;Oper. margin;17.5
+Unilever plc;nyse;ul;Gross margin;100.0
+Unilever plc;nyse;ul;EBIT margin;0.0
+Unilever plc;nyse;ul;EBITDA margin;22.1
+Unilever plc;nyse;ul;Ret. on assets;7.92
+Unilever plc;nyse;ul;Ret. on equity;30.43
+Unilever plc;nyse;ul;ROIC;11.19
+Unilever plc;nyse;ul;ROCE;11.11
+Unilever plc;nyse;ul;Debt/Equity;2.59
+Unilever plc;nyse;ul;Net debt/EBITDA;0.0
+Unilever plc;nyse;ul;Current ratio;0.75
+Unilever plc;nyse;ul;Quick ratio;0.52
+Unilever plc;nyse;ul;Volatility;1.4
+Unilever plc;nyse;ul;Beta;0.46
+Unilever plc;nyse;ul;Dividend;1.77
+Unilever plc;nyse;ul;Dividend yield;3.44
+Unilever plc;nyse;ul;Payout ratio;30.28
+Unilever plc;nyse;ul;IPO year;1978.0
+Unilever plc;nyse;ul;Country;United Kingdom
