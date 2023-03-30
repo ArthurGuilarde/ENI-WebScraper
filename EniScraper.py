@@ -38,7 +38,7 @@ def main():
     # ========================================================================
     # Inicializando o dataframe e o mapa das tabelas em HTML
     # ========================================================================
-    df = pd.DataFrame(columns=['Nome', 'Bolsa', 'Ticker', 'Metrica', 'Valor'])
+    df = pd.DataFrame(columns=['Nome', 'Categoria', 'Bolsa', 'Ticker', 'Metrica', 'Valor'])
     
     xpath_list = [
         # "/html/body/main/section/div[2]/div/div[1]/h1/div[2]/a",
@@ -60,35 +60,45 @@ def main():
     # Iterando sobre todas as URLS
     # ========================================================================
     dict_urls = {
-        1: ["nasdaq","aapl", "Apple Inc"], 
-        2: ["nasdaq","adbe", "Adobe Inc"],
-        3: ["nasdaq","adsk", "Autodesk Inc."],
-        4: ["nyse","cl", "Colgate-Palmolive Co."],
-        5: ["nyse","dis", "Walt Disney Co (The)"],
-        6: ["nyse","gis", "General Mills, Inc."],
-        7: ["nasdaq","googl", "Alphabet Inc"],
-        8: ["nasdaq","intc", "Intel Corp."],
-        9: ["nyse","jnj", "Johnson & Johnson"],
-        10: ["nyse","k", "Kellogg Co"],
-        11: ["nasdaq","khc", "Kraft Heinz Co"],
-        12: ["nyse","ko", "Coca-Cola Co"],
-        13: ["nyse","mcd", "McDonald`s Corp"],
-        14: ["nasdaq","mdlz", "Mondelez International Inc."],
-        15: ["nyse","mmm", "3M Co."],
-        16: ["nasdq","msft", "Microsoft Corporation"],
-        17: ["nyse","nke", "Nike, Inc."],
-        18: ["nasdaq","nvda", "NVIDIA Corp"],
-        19: ["nyse","orcl", "Oracle Corp."],
-        20: ["nasdaq","pep", "PepsiCo Inc"],
-        21: ["nyse","pg", "Procter & Gamble Co."],
-        22: ["nyse","schw", "Charles Schwab Corp."],
-        23: ["nyse","swk", "Stanley Black & Decker Inc"],
-        24: ["nyse","t", "AT&T, Inc."],
-        25: ["nyse","ul", "Unilever plc"],
+        1: ["nasdaq","aapl", "Apple Inc", "Technology"], 
+        2: ["nasdaq","adbe", "Adobe Inc", "Software"],
+        3: ["nasdaq","adsk", "Autodesk Inc.", "Software"],
+        4: ["nyse","cl", "Colgate-Palmolive Co.", "Household"],
+        5: ["nyse","dis", "Walt Disney Co (The)", "Media"],
+        6: ["nyse","gis", "General Mills, Inc.", "Packaged Foods & Meats"],
+        7: ["nasdaq","googl", "Alphabet Inc", "Internet Services & Infrastructure"],
+        8: ["nasdaq","intc", "Intel Corp.", "Semiconductors"],
+        9: ["nyse","jnj", "Johnson & Johnson", "Pharmaceuticals"],
+        10: ["nyse","k", "Kellogg Co", "Packaged Foods & Meats"],
+        11: ["nasdaq","khc", "Kraft Heinz Co", "Packaged Foods & Meats"],
+        12: ["nyse","ko", "Coca-Cola Co", "Soft Drinks"],
+        13: ["nyse","mcd", "McDonald`s Corp", "Restaurants"],
+        14: ["nasdaq","mdlz", "Mondelez International Inc.", "Food Retail"],
+        15: ["nyse","mmm", "3M Co.", "Industrial Conglomerates"],
+        16: ["nasdq","msft", "Microsoft Corporation", "Internet Services & Infrastructure"],
+        17: ["nyse","nke", "Nike, Inc.", "Footwear"],
+        18: ["nasdaq","nvda", "NVIDIA Corp", "Semiconductors"],
+        19: ["nyse","orcl", "Oracle Corp.", "Internet Services & Infrastructure"],
+        20: ["nasdaq","pep", "PepsiCo Inc", "Soft Drinks"],
+        21: ["nyse","pg", "Procter & Gamble Co.", "Household & Personal Products"],
+        22: ["nyse","schw", "Charles Schwab Corp.", "Capital Markets"],
+        23: ["nyse","swk", "Stanley Black & Decker Inc", "Electrical Components & Equipment"],
+        24: ["nyse","t", "AT&T, Inc.", "Telecommunication Services"],
+        25: ["nyse","ul", "Unilever plc", "Household & Personal Products"],
+        26:["nasdaq", "asml", "ASML Holding NV", 'Semiconductor Equipment'],
+        27:["nasdaq", "amzn", "Amazon.com Inc.", "Specialty Retail"],
+        28:["nyse", "mrk", "Merck & Co Inc","Pharmaceuticals"],
+        29:["nyse", "pfe", "Pfizer Inc.", "Pharmaceuticals"],
+        30:["nyse", "v", "Visa Inc", "Consumer Finance"],
+        31:["nyse", "crm", "Salesforce Inc", "Application Software"],
+        32:["nyse", "slb", "Schlumberger", "Oil & Gas Equipment & Services"],
+        33:["nyse", "cvx", "Chevron Corp.", "Integrated Oil & Gas"],
+        34:["nyse", "whd", "Cactus Inc", "Oil & Gas Equipment & Services"],
     }
     
     for key in dict_urls:
         # break
+        categoria = dict_urls[key][3]
         nome = dict_urls[key][2]
         bolsa = dict_urls[key][0]
         ticker = dict_urls[key][1]
@@ -111,6 +121,7 @@ def main():
             # Adicionando Bolsa e Ticker
             temp_df.insert(0, 'Ticker', ticker)
             temp_df.insert(0, 'Bolsa', bolsa)
+            temp_df.insert(0, 'Categoria', categoria)
             temp_df.insert(0, 'Nome', nome)
             
     
