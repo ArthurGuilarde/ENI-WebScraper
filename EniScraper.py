@@ -41,7 +41,6 @@ def main():
     df = pd.DataFrame(columns=['Nome', 'Categoria', 'Bolsa', 'Ticker', 'Metrica', 'Valor'])
     
     xpath_list = [
-        # "/html/body/main/section/div[2]/div/div[1]/h1/div[2]/a",
         "/html/body/main/section/div[4]/div[1]/div[2]/div[1]/div[1]/table",
         "/html/body/main/section/div[4]/div[1]/div[2]/div[1]/div[2]/table",
         "/html/body/main/section/div[4]/div[1]/div[2]/div[1]/div[3]/table",
@@ -94,6 +93,12 @@ def main():
         32:["nyse", "slb", "Schlumberger", "Oil & Gas Equipment & Services"],
         33:["nyse", "cvx", "Chevron Corp.", "Integrated Oil & Gas"],
         34:["nyse", "whd", "Cactus Inc", "Oil & Gas Equipment & Services"],
+        35:["nasdaq", "meli", "MercadoLibre Inc", "Specialty Retail"],
+        36:["nyse", "race", "Ferrari N.V.", "Automobile Manufacturers"],
+        37:["nasdaq", "tsla", "Tesla Inc", "Automobile Manufacturers"],
+        38:["nyse", "ma", "Mastercard Incorporated", "Consumer Finance"],
+        39:["nasdaq", "amd", "Advanced Micro Devices Inc.", "Semiconductors"],
+        40:["nyse", "tm", "Toyota Motor Corporation", "Automobile Manufacturers"],
     }
     
     for key in dict_urls:

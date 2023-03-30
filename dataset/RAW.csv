@@ -363,7 +363,7 @@ Intel Corp.;Semiconductors;nasdaq;intc;EBITDA;$15.371B
 Intel Corp.;Semiconductors;nasdaq;intc;Income;$8.014B
 Intel Corp.;Semiconductors;nasdaq;intc;Revenue Q/Q;-31.60%
 Intel Corp.;Semiconductors;nasdaq;intc;Revenue Y/Y;-20.21%
-Intel Corp.;Semiconductors;nasdaq;intc;P/E;16.16
+Intel Corp.;Semiconductors;nasdaq;intc;P/E;16.38
 Intel Corp.;Semiconductors;nasdaq;intc;Forward P/E;14.01
 Intel Corp.;Semiconductors;nasdaq;intc;EV/Sales;1.95
 Intel Corp.;Semiconductors;nasdaq;intc;EV/EBITDA;8.00
@@ -372,8 +372,8 @@ Intel Corp.;Semiconductors;nasdaq;intc;PEG;12.68
 Intel Corp.;Semiconductors;nasdaq;intc;Price/Sales;1.75
 Intel Corp.;Semiconductors;nasdaq;intc;P/FCF;
 Intel Corp.;Semiconductors;nasdaq;intc;Price/Book;1.09
-Intel Corp.;Semiconductors;nasdaq;intc;Book/Share;28.95
-Intel Corp.;Semiconductors;nasdaq;intc;Cash/Share;8.09
+Intel Corp.;Semiconductors;nasdaq;intc;Book/Share;29.35
+Intel Corp.;Semiconductors;nasdaq;intc;Cash/Share;8.20
 Intel Corp.;Semiconductors;nasdaq;intc;FCF yield;-8.71%
 Intel Corp.;Semiconductors;nasdaq;intc;Employees;131900
 Intel Corp.;Semiconductors;nasdaq;intc;RPE;$478.044k
@@ -397,10 +397,10 @@ Intel Corp.;Semiconductors;nasdaq;intc;Debt/Equity;0.78
 Intel Corp.;Semiconductors;nasdaq;intc;Net debt/EBITDA;2.45
 Intel Corp.;Semiconductors;nasdaq;intc;Current ratio;1.57
 Intel Corp.;Semiconductors;nasdaq;intc;Quick ratio;1.16
-Intel Corp.;Semiconductors;nasdaq;intc;Volatility;3.47%
+Intel Corp.;Semiconductors;nasdaq;intc;Volatility;3.65%
 Intel Corp.;Semiconductors;nasdaq;intc;Beta;1.25
 Intel Corp.;Semiconductors;nasdaq;intc;Dividend;$1.46
-Intel Corp.;Semiconductors;nasdaq;intc;Dividend yield;4.98%
+Intel Corp.;Semiconductors;nasdaq;intc;Dividend yield;4.63%
 Intel Corp.;Semiconductors;nasdaq;intc;Payout ratio;74.87%
 Intel Corp.;Semiconductors;nasdaq;intc;Payment date;1 Jun 2023
 Intel Corp.;Semiconductors;nasdaq;intc;Ex-dividend date;4 May 2023
@@ -1077,7 +1077,7 @@ Charles Schwab Corp.;Capital Markets;nyse;schw;EBITDA;$10.636B
 Charles Schwab Corp.;Capital Markets;nyse;schw;Income;$6.635B
 Charles Schwab Corp.;Capital Markets;nyse;schw;Revenue Q/Q;16.76%
 Charles Schwab Corp.;Capital Markets;nyse;schw;Revenue Y/Y;12.11%
-Charles Schwab Corp.;Capital Markets;nyse;schw;P/E;15.68
+Charles Schwab Corp.;Capital Markets;nyse;schw;P/E;15.09
 Charles Schwab Corp.;Capital Markets;nyse;schw;Forward P/E;
 Charles Schwab Corp.;Capital Markets;nyse;schw;EV/Sales;6.77
 Charles Schwab Corp.;Capital Markets;nyse;schw;EV/EBITDA;13.22
@@ -1086,7 +1086,7 @@ Charles Schwab Corp.;Capital Markets;nyse;schw;PEG;0.85
 Charles Schwab Corp.;Capital Markets;nyse;schw;Price/Sales;7.08
 Charles Schwab Corp.;Capital Markets;nyse;schw;P/FCF;135.35
 Charles Schwab Corp.;Capital Markets;nyse;schw;Price/Book;4.02
-Charles Schwab Corp.;Capital Markets;nyse;schw;Book/Share;13.75
+Charles Schwab Corp.;Capital Markets;nyse;schw;Book/Share;13.22
 Charles Schwab Corp.;Capital Markets;nyse;schw;Cash/Share;
 Charles Schwab Corp.;Capital Markets;nyse;schw;FCF yield;0.74%
 Charles Schwab Corp.;Capital Markets;nyse;schw;Employees;2020
@@ -1111,7 +1111,7 @@ Charles Schwab Corp.;Capital Markets;nyse;schw;Debt/Equity;14.07
 Charles Schwab Corp.;Capital Markets;nyse;schw;Net debt/EBITDA;-30.99
 Charles Schwab Corp.;Capital Markets;nyse;schw;Current ratio;0.39
 Charles Schwab Corp.;Capital Markets;nyse;schw;Quick ratio;0.39
-Charles Schwab Corp.;Capital Markets;nyse;schw;Volatility;6.63%
+Charles Schwab Corp.;Capital Markets;nyse;schw;Volatility;6.77%
 Charles Schwab Corp.;Capital Markets;nyse;schw;Beta;0.93
 Charles Schwab Corp.;Capital Markets;nyse;schw;Dividend;$0.89
 Charles Schwab Corp.;Capital Markets;nyse;schw;Dividend yield;1.65%
@@ -1733,3 +1733,309 @@ Cactus Inc;Oil & Gas Equipment & Services;nyse;whd;Ex-dividend date;
 Cactus Inc;Oil & Gas Equipment & Services;nyse;whd;Earnings date;3 May 2023
 Cactus Inc;Oil & Gas Equipment & Services;nyse;whd;IPO year;2018
 Cactus Inc;Oil & Gas Equipment & Services;nyse;whd;Country;United States
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Market cap;$43.62B
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Enterprise value;$62.16B
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Revenue;$10.537B
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;EBITDA;$1.437B
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Income;$482.000M
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Revenue Q/Q;40.89%
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Revenue Y/Y;49.05%
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;P/E;131.87
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Forward P/E;87.62
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;EV/Sales;5.90
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;EV/EBITDA;43.26
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;EV/EBIT;56.46
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;PEG;0.88
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Price/Sales;4.14
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;P/FCF;19.34
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Price/Book;23.88
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Book/Share;52.86
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Cash/Share;214.26
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;FCF yield;6.74%
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Employees;29957
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;RPE;$351.737k
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Shares outst.;50.258M
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Shares float;0.000 0.00%
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Short % of float;2.03%
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Short ratio;1.55
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;EPS;9.57
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;EPS Q/Q;77.37%
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Est. EPS Q/Q;16.15%
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Profit margin;4.57%
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Oper. margin;9.81%
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Gross margin;49.00%
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;EBIT margin;10.45%
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;EBITDA margin;13.64%
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Ret. on assets;4.00%
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Ret. on equity;29.09%
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;ROIC;9.24%
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;ROCE;21.28%
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Debt/Equity;6.52
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Net debt/EBITDA;-3.11
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Current ratio;1.28
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Quick ratio;1.26
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Volatility;3.31%
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Beta;2.10
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Dividend;$0.00
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Dividend yield;0.00%
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Payout ratio;0.00%
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Payment date;
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Ex-dividend date;
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Earnings date;4 May 2023
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;IPO year;2007
+MercadoLibre Inc;Specialty Retail;nasdaq;meli;Country;Uruguay
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Market cap;$40.35B
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Enterprise value;$51.67B
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Revenue;€4.236B
+Ferrari N.V.;Automobile Manufacturers;nyse;race;EBITDA;€1.148B
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Income;€927.007M
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Revenue Q/Q;-9.72%
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Revenue Y/Y;
+Ferrari N.V.;Automobile Manufacturers;nyse;race;P/E;62.38
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Forward P/E;
+Ferrari N.V.;Automobile Manufacturers;nyse;race;EV/Sales;11.91
+Ferrari N.V.;Automobile Manufacturers;nyse;race;EV/EBITDA;43.94
+Ferrari N.V.;Automobile Manufacturers;nyse;race;EV/EBIT;45.74
+Ferrari N.V.;Automobile Manufacturers;nyse;race;PEG;2.92
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Price/Sales;7.85
+Ferrari N.V.;Automobile Manufacturers;nyse;race;P/FCF;88.38
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Price/Book;20.42
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Book/Share;13.17
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Cash/Share;6.21
+Ferrari N.V.;Automobile Manufacturers;nyse;race;FCF yield;1.43%
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Employees;4556
+Ferrari N.V.;Automobile Manufacturers;nyse;race;RPE;€929.841k
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Shares outst.;184.748M
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Shares float;0.000 0.00%
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Short % of float;11.19%
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Short ratio;5.52
+Ferrari N.V.;Automobile Manufacturers;nyse;race;EPS;4.31
+Ferrari N.V.;Automobile Manufacturers;nyse;race;EPS Q/Q;17.12%
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Est. EPS Q/Q;-6.25%
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Profit margin;18.15%
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Oper. margin;24.22%
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Gross margin;51.39%
+Ferrari N.V.;Automobile Manufacturers;nyse;race;EBIT margin;25.17%
+Ferrari N.V.;Automobile Manufacturers;nyse;race;EBITDA margin;27.11%
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Ret. on assets;10.41%
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Ret. on equity;41.69%
+Ferrari N.V.;Automobile Manufacturers;nyse;race;ROIC;11.55%
+Ferrari N.V.;Automobile Manufacturers;nyse;race;ROCE;14.35%
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Debt/Equity;3.13
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Net debt/EBITDA;4.7
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Current ratio;3.08
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Quick ratio;2.46
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Volatility;1.89%
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Beta;1.02
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Dividend;$1.54
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Dividend yield;0.57%
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Payout ratio;35.74%
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Payment date;5 May 2023
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Ex-dividend date;24 Apr 2023
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Earnings date;4 May 2023
+Ferrari N.V.;Automobile Manufacturers;nyse;race;IPO year;2015
+Ferrari N.V.;Automobile Manufacturers;nyse;race;Country;Italy
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Market cap;$495.14B
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Enterprise value;$550.86B
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Revenue;$81.462B
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;EBITDA;$15.803B
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Income;$12.556B
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Revenue Q/Q;37.24%
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Revenue Y/Y;51.35%
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;P/E;48.23
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Forward P/E;46.01
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;EV/Sales;6.76
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;EV/EBITDA;34.86
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;EV/EBIT;39.69
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;PEG;1.28
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Price/Sales;6.08
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;P/FCF;65.49
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Price/Book;11.08
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Book/Share;17.50
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Cash/Share;8.69
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;FCF yield;1.53%
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Employees;127855
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;RPE;$637.144k
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Shares outst.;3.133B
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Shares float;0.000 0.00%
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Short % of float;3.00%
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Short ratio;0.88
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;EPS;4.02
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;EPS Q/Q;-43.55%
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Est. EPS Q/Q;47.06%
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Profit margin;15.41%
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Oper. margin;16.76%
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Gross margin;25.60%
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;EBIT margin;17.04%
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;EBITDA margin;19.40%
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Ret. on assets;17.24%
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Ret. on equity;32.40%
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;ROIC;19.56%
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;ROCE;24.95%
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Debt/Equity;0.82
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Net debt/EBITDA;-4.07
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Current ratio;1.53
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Quick ratio;1.05
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Volatility;4.84%
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Beta;1.73
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Dividend;
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Dividend yield;
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Payout ratio;
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Payment date;
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Ex-dividend date;
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Earnings date;19 Apr 2023
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;IPO year;2010
+Tesla Inc;Automobile Manufacturers;nasdaq;tsla;Country;United States
+Mastercard Incorporated;Consumer Finance;nyse;ma;Market cap;$340.21B
+Mastercard Incorporated;Consumer Finance;nyse;ma;Enterprise value;$348.49B
+Mastercard Incorporated;Consumer Finance;nyse;ma;Revenue;$22.237B
+Mastercard Incorporated;Consumer Finance;nyse;ma;EBITDA;$13.370B
+Mastercard Incorporated;Consumer Finance;nyse;ma;Income;$9.930B
+Mastercard Incorporated;Consumer Finance;nyse;ma;Revenue Q/Q;11.52%
+Mastercard Incorporated;Consumer Finance;nyse;ma;Revenue Y/Y;17.76%
+Mastercard Incorporated;Consumer Finance;nyse;ma;P/E;35.04
+Mastercard Incorporated;Consumer Finance;nyse;ma;Forward P/E;29.68
+Mastercard Incorporated;Consumer Finance;nyse;ma;EV/Sales;15.67
+Mastercard Incorporated;Consumer Finance;nyse;ma;EV/EBITDA;26.07
+Mastercard Incorporated;Consumer Finance;nyse;ma;EV/EBIT;28.56
+Mastercard Incorporated;Consumer Finance;nyse;ma;PEG;1.31
+Mastercard Incorporated;Consumer Finance;nyse;ma;Price/Sales;15.30
+Mastercard Incorporated;Consumer Finance;nyse;ma;P/FCF;33.69
+Mastercard Incorporated;Consumer Finance;nyse;ma;Price/Book;54.02
+Mastercard Incorporated;Consumer Finance;nyse;ma;Book/Share;6.66
+Mastercard Incorporated;Consumer Finance;nyse;ma;Cash/Share;9.49
+Mastercard Incorporated;Consumer Finance;nyse;ma;FCF yield;2.97%
+Mastercard Incorporated;Consumer Finance;nyse;ma;Employees;24000
+Mastercard Incorporated;Consumer Finance;nyse;ma;RPE;$926.542k
+Mastercard Incorporated;Consumer Finance;nyse;ma;Shares outst.;945.723M
+Mastercard Incorporated;Consumer Finance;nyse;ma;Shares float;0.000 0.00%
+Mastercard Incorporated;Consumer Finance;nyse;ma;Short % of float;0.56%
+Mastercard Incorporated;Consumer Finance;nyse;ma;Short ratio;1.47
+Mastercard Incorporated;Consumer Finance;nyse;ma;EPS;10.26
+Mastercard Incorporated;Consumer Finance;nyse;ma;EPS Q/Q;13.08%
+Mastercard Incorporated;Consumer Finance;nyse;ma;Est. EPS Q/Q;9.36%
+Mastercard Incorporated;Consumer Finance;nyse;ma;Profit margin;44.66%
+Mastercard Incorporated;Consumer Finance;nyse;ma;Oper. margin;55.15%
+Mastercard Incorporated;Consumer Finance;nyse;ma;Gross margin;100.00%
+Mastercard Incorporated;Consumer Finance;nyse;ma;EBIT margin;54.88%
+Mastercard Incorporated;Consumer Finance;nyse;ma;EBITDA margin;60.13%
+Mastercard Incorporated;Consumer Finance;nyse;ma;Ret. on assets;26.53%
+Mastercard Incorporated;Consumer Finance;nyse;ma;Ret. on equity;153.57%
+Mastercard Incorporated;Consumer Finance;nyse;ma;ROIC;32.02%
+Mastercard Incorporated;Consumer Finance;nyse;ma;ROCE;49.70%
+Mastercard Incorporated;Consumer Finance;nyse;ma;Debt/Equity;5.14
+Mastercard Incorporated;Consumer Finance;nyse;ma;Net debt/EBITDA;1.65
+Mastercard Incorporated;Consumer Finance;nyse;ma;Current ratio;1.17
+Mastercard Incorporated;Consumer Finance;nyse;ma;Quick ratio;1.17
+Mastercard Incorporated;Consumer Finance;nyse;ma;Volatility;1.98%
+Mastercard Incorporated;Consumer Finance;nyse;ma;Beta;1.04
+Mastercard Incorporated;Consumer Finance;nyse;ma;Dividend;$2.04
+Mastercard Incorporated;Consumer Finance;nyse;ma;Dividend yield;0.57%
+Mastercard Incorporated;Consumer Finance;nyse;ma;Payout ratio;19.88%
+Mastercard Incorporated;Consumer Finance;nyse;ma;Payment date;9 May 2023
+Mastercard Incorporated;Consumer Finance;nyse;ma;Ex-dividend date;5 Apr 2023
+Mastercard Incorporated;Consumer Finance;nyse;ma;Earnings date;27 Apr 2023
+Mastercard Incorporated;Consumer Finance;nyse;ma;IPO year;2006
+Mastercard Incorporated;Consumer Finance;nyse;ma;Country;United States
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Market cap;$80.34B
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Enterprise value;$127.97B
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Revenue;$23.601B
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;EBITDA;$4.724B
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Income;$1.320B
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Revenue Q/Q;16.02%
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Revenue Y/Y;43.61%
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;P/E;116.79
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Forward P/E;22.31
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;EV/Sales;5.42
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;EV/EBITDA;27.09
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;EV/EBIT;99.51
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;PEG;0.90
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Price/Sales;3.40
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;P/FCF;25.79
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Price/Book;1.47
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Book/Share;67.65
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Cash/Share;7.23
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;FCF yield;3.88%
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Employees;15500
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;RPE;$1.523M
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Shares outst.;1.611B
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Shares float;0.000 0.00%
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Short % of float;2.36%
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Short ratio;0.41
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;EPS;0.85
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;EPS Q/Q;66.67%
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Est. EPS Q/Q;-6.85%
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Profit margin;5.59%
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Oper. margin;5.36%
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Gross margin;44.93%
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;EBIT margin;5.45%
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;EBITDA margin;20.02%
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Ret. on assets;1.96%
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Ret. on equity;2.40%
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;ROIC;3.22%
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;ROCE;2.10%
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Debt/Equity;0.23
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Net debt/EBITDA;-2.72
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Current ratio;2.36
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Quick ratio;1.77
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Volatility;4.06%
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Beta;1.95
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Dividend;$0.00
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Dividend yield;0.00%
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Payout ratio;0.00%
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Payment date;
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Ex-dividend date;
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Earnings date;2 May 2023
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;IPO year;1978
+Advanced Micro Devices Inc.;Semiconductors;nasdaq;amd;Country;United States
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Market cap;$198.62B
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Enterprise value;$182.20B
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Revenue;¥33.045T
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;EBITDA;¥39.705B
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Income;¥2.470T
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Revenue Q/Q;14.71%
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Revenue Y/Y;
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;P/E;11.36
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Forward P/E;
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;EV/Sales;0.75
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;EV/EBITDA;623.04
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;EV/EBIT;9.97
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;PEG;3.71
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Price/Sales;0.82
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;P/FCF;0.71
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Price/Book;1.03
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Book/Share;135.94
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Cash/Share;28.15
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;FCF yield;1.03%
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Employees;37369
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;RPE;¥884.288M
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Shares outst.;1.631B
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Shares float;0.000 0.00%
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Short % of float;0.00%
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Short ratio;1.79
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;EPS;12.3
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;EPS Q/Q;
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Est. EPS Q/Q;
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Profit margin;9.08%
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Oper. margin;7.13%
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Gross margin;19.03%
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;EBIT margin;7.51%
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;EBITDA margin;0.12%
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Ret. on assets;3.62%
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Ret. on equity;9.42%
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;ROIC;3.37%
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;ROCE;8.02%
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Debt/Equity;1.54
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Net debt/EBITDA;836.06
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Current ratio;0.62
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Quick ratio;0.52
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Volatility;1.42%
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Beta;0.69
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Dividend;$1.76
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Dividend yield;1.26%
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Payout ratio;14.33%
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Payment date;
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Ex-dividend date;
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Earnings date;10 May 2023
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;IPO year;1978
+Toyota Motor Corporation;Automobile Manufacturers;nyse;tm;Country;Japan
