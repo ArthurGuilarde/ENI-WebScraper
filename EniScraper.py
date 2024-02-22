@@ -6,8 +6,8 @@ Created on Sat Mar 25 09:15:36 2023
 """
 import pandas as pd
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.edge.service import Service as EdgeService
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from selenium.webdriver.common.by import By
 
 def main():
@@ -15,12 +15,12 @@ def main():
     # Funções
     # ========================================================================
     def initDriver():
-        s = Service(ChromeDriverManager().install())
+        s = EdgeService(EdgeChromiumDriverManager().install())
         
         from selenium.webdriver.chrome.options import Options
         options = Options()
-        options.add_argument("--headless")
-        driver = webdriver.Chrome(service=s, options=options)
+        #options.add_argument("--headless")
+        driver = webdriver.Edge(service=s)
         return driver
     
     def get_table(xpath):
